@@ -1,0 +1,100 @@
+{
+  "tokenizador": "Qwen/Qwen2.5-0.5B-Instruct",
+  "overlap": 0,
+  "estatisticas": {
+    "texto": {
+      "exemplos": 125,
+      "media_tokens_registro_com_metadados": 833.47,
+      "duplicatas_removidas": 0,
+      "recusas_encaminhamentos": 0,
+      "perguntas_usuario": 0,
+      "perguntas_informais_regra_explicita": 0,
+      "proporcao_informal": null,
+      "cinco_exemplos_indices_1based": [
+        53,
+        116,
+        101,
+        7,
+        15
+      ]
+    },
+    "qa": {
+      "exemplos": 102,
+      "media_tokens_registro_com_metadados": 594.65,
+      "duplicatas_removidas": 0,
+      "recusas_encaminhamentos": 0,
+      "perguntas_usuario": 102,
+      "perguntas_informais_regra_explicita": 33,
+      "proporcao_informal": 0.324,
+      "cinco_exemplos_indices_1based": [
+        11,
+        35,
+        3,
+        49,
+        7
+      ]
+    },
+    "chat": {
+      "exemplos": 30,
+      "media_tokens_registro_com_metadados": 523.93,
+      "duplicatas_removidas": 0,
+      "recusas_encaminhamentos": 10,
+      "perguntas_usuario": 60,
+      "perguntas_informais_regra_explicita": 27,
+      "proporcao_informal": 0.45,
+      "cinco_exemplos_indices_1based": [
+        1,
+        9,
+        8,
+        10,
+        14
+      ]
+    },
+    "teste": {
+      "exemplos": 20,
+      "media_tokens_registro_com_metadados": 83.4,
+      "duplicatas_removidas": 0,
+      "recusas_encaminhamentos": 5,
+      "perguntas_usuario": 20,
+      "perguntas_informais_regra_explicita": 9,
+      "proporcao_informal": 0.45,
+      "cinco_exemplos_indices_1based": [
+        8,
+        2,
+        12,
+        18,
+        15
+      ]
+    }
+  },
+  "verificacoes": {
+    "texto_min50": true,
+    "qa_min100": true,
+    "qa_min3fontes": true,
+    "chat_min30": true,
+    "teste_min20": true,
+    "texto_tokens_256_512": true,
+    "sem_questao_teste_no_treino": true,
+    "chat_duas_trocas": true,
+    "informal_min30": true
+  },
+  "vazamentos_exatos": [],
+  "paginas_pdf": 77,
+  "palavras_extraidas_total": 33137,
+  "fidelidade_humana": {
+    "amostra_planejada": 20,
+    "conferidos": 0,
+    "fieis_confirmados": null
+  },
+  "revisao_humana": {
+    "realizada": 0,
+    "minimo_20pct": {
+      "texto": 25,
+      "qa": 21,
+      "chat": 6,
+      "teste": 4
+    },
+    "status": "PENDENTE"
+  },
+  "nota": "Checks automáticos não avaliam qualidade semântica, adequação jurídica ou remoção de todos os dados pessoais."
+}

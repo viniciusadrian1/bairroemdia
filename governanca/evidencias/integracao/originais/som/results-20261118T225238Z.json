@@ -1,0 +1,294 @@
+{
+  "executed_at": "2026-11-18T22:52:38.917272+00:00",
+  "scope": "Exploratory public audio examples; not general accuracy, not physical microphone.",
+  "status": {
+    "available": true,
+    "loaded": false,
+    "model_version": "google-yamnet-savedmodel-1",
+    "decision_version": "temporal-v1",
+    "source_profile_version": "neighborhood-v1",
+    "reason": "Artefatos verificados e executável presente; runtime e inferência só são confirmados ao analisar áudio."
+  },
+  "results": [
+    {
+      "sample": {
+        "id": "199929",
+        "author": "thedapperdan",
+        "source_url": "https://freesound.org/people/thedapperdan/sounds/199929/",
+        "preview_url": "https://cdn.freesound.org/previews/199/199929_11337-hq.mp3",
+        "license": "CC0-1.0",
+        "expected": "furadeira",
+        "path": "wav\\furadeira-199929.wav",
+        "duration_seconds": 10.534625,
+        "source_sha256": "e5c6ecfd080e8d3c50c2d43a91fc377996a710ef03abc3e4d452e7e3f0b37573",
+        "wav_sha256": "4552324684ced39aefd245325bb9b1ddfb65c2f38a1eb15ecd1982b498b80bf3"
+      },
+      "prediction_matches_reference": false,
+      "event": {
+        "event_id": "yamnet-neighborhood-573c6374455a40349900be68eb00cea4",
+        "source": "yamnet",
+        "label": "outro",
+        "confidence": 0.37019788819764343,
+        "model_version": "google-yamnet-savedmodel-1",
+        "observed_at": "2026-11-18T22:52:45.601343+00:00",
+        "audio_sha256": "4552324684ced39aefd245325bb9b1ddfb65c2f38a1eb15ecd1982b498b80bf3",
+        "analysis": {
+          "mode": "yamnet",
+          "model_version": "google-yamnet-savedmodel-1",
+          "model_sha256": "b80da2a1a56926fb0767205051a200dd7b3beaf3ea1ea126c42a53943996e5e0",
+          "decision_version": "temporal-v1",
+          "aggregation": "target_event_windows",
+          "label": "outro",
+          "confidence": 0.37019788819764343,
+          "top_classes": [
+            {
+              "label": "Tools",
+              "score": 0.37019788819764343
+            },
+            {
+              "label": "Power tool",
+              "score": 0.31039037858136
+            },
+            {
+              "label": "Drill",
+              "score": 0.24002451665278168
+            },
+            {
+              "label": "Ratchet, pawl",
+              "score": 0.1170617740835022
+            },
+            {
+              "label": "Gears",
+              "score": 0.09624869505911152
+            }
+          ],
+          "mean_top_classes": [
+            {
+              "label": "Tools",
+              "score": 0.37019788819764343
+            },
+            {
+              "label": "Power tool",
+              "score": 0.31039037858136
+            },
+            {
+              "label": "Drill",
+              "score": 0.24002451665278168
+            },
+            {
+              "label": "Ratchet, pawl",
+              "score": 0.1170617740835022
+            },
+            {
+              "label": "Gears",
+              "score": 0.09624869505911152
+            }
+          ],
+          "neighborhood_source": {
+            "label": "obra_ferramentas",
+            "score": 0.37019788819764343,
+            "model_class": "Tools",
+            "version": "neighborhood-v1",
+            "aggregation": "clip_mean",
+            "reason": "Fonte sugerida pela maior média de classe no clipe; requer conferência do morador."
+          },
+          "event_windows": [],
+          "duration_seconds": 10.534625,
+          "sample_rate": 16000,
+          "latency_ms": 6635.624,
+          "warnings": [
+            "Escores YAMNet não são probabilidades calibradas nem acurácia; limiares são heurísticos, sem calibração local.",
+            "Análise educacional de conteúdo sonoro; não mede decibéis, volume excessivo ou infração e não substitui alertas de emergência."
+          ]
+        }
+      }
+    },
+    {
+      "sample": {
+        "id": "42097",
+        "author": "fauxpress",
+        "source_url": "https://freesound.org/people/fauxpress/sounds/42097/",
+        "preview_url": "https://cdn.freesound.org/previews/42/42097_317797-hq.mp3",
+        "license": "CC0-1.0",
+        "expected": "obra_ferramentas",
+        "path": "wav\\obra_ferramentas-42097.wav",
+        "duration_seconds": 9.3704375,
+        "source_sha256": "9f3b5a583950881f34dd276688d4ae8a0d81c349516f77546cd3f3df570e3f57",
+        "wav_sha256": "8dff84ad08a4a72a7ff0b87caa4ddd8dcc7494b446e61e94f537f8a1364ebda7"
+      },
+      "prediction_matches_reference": true,
+      "event": {
+        "event_id": "yamnet-neighborhood-58fe8989906042aeb4d604faa1b298fa",
+        "source": "yamnet",
+        "label": "outro",
+        "confidence": 0.6840589850985297,
+        "model_version": "google-yamnet-savedmodel-1",
+        "observed_at": "2026-11-18T22:52:51.087734+00:00",
+        "audio_sha256": "8dff84ad08a4a72a7ff0b87caa4ddd8dcc7494b446e61e94f537f8a1364ebda7",
+        "analysis": {
+          "mode": "yamnet",
+          "model_version": "google-yamnet-savedmodel-1",
+          "model_sha256": "b80da2a1a56926fb0767205051a200dd7b3beaf3ea1ea126c42a53943996e5e0",
+          "decision_version": "temporal-v1",
+          "aggregation": "target_event_windows",
+          "label": "outro",
+          "confidence": 0.6840589850985297,
+          "top_classes": [
+            {
+              "label": "Jackhammer",
+              "score": 0.6840589850985297
+            },
+            {
+              "label": "Tools",
+              "score": 0.4442703624709362
+            },
+            {
+              "label": "Silence",
+              "score": 0.07281268139956804
+            },
+            {
+              "label": "Power tool",
+              "score": 0.06613619952676686
+            },
+            {
+              "label": "Glass",
+              "score": 0.06307360301464446
+            }
+          ],
+          "mean_top_classes": [
+            {
+              "label": "Jackhammer",
+              "score": 0.6840589850985297
+            },
+            {
+              "label": "Tools",
+              "score": 0.4442703624709362
+            },
+            {
+              "label": "Silence",
+              "score": 0.07281268139956804
+            },
+            {
+              "label": "Power tool",
+              "score": 0.06613619952676686
+            },
+            {
+              "label": "Glass",
+              "score": 0.06307360301464446
+            }
+          ],
+          "neighborhood_source": {
+            "label": "obra_ferramentas",
+            "score": 0.6840589850985297,
+            "model_class": "Jackhammer",
+            "version": "neighborhood-v1",
+            "aggregation": "clip_mean",
+            "reason": "Fonte sugerida pela maior média de classe no clipe; requer conferência do morador."
+          },
+          "event_windows": [],
+          "duration_seconds": 9.3704375,
+          "sample_rate": 16000,
+          "latency_ms": 5462.613,
+          "warnings": [
+            "Escores YAMNet não são probabilidades calibradas nem acurácia; limiares são heurísticos, sem calibração local.",
+            "Análise educacional de conteúdo sonoro; não mede decibéis, volume excessivo ou infração e não substitui alertas de emergência."
+          ]
+        }
+      }
+    },
+    {
+      "sample": {
+        "id": "644772",
+        "author": "Mamradrohliki",
+        "source_url": "https://freesound.org/people/Mamradrohliki/sounds/644772/",
+        "preview_url": "https://cdn.freesound.org/previews/644/644772_13799012-hq.mp3",
+        "license": "CC0-1.0",
+        "expected": "musica",
+        "path": "wav\\musica-644772.wav",
+        "duration_seconds": 12.001,
+        "source_sha256": "9884887ef7065287fa17e00693d7bc6e91fa546e34b87c5b85f9dafe891124d5",
+        "wav_sha256": "54c0de2701beb406d6bbe7e9a9bb3e8ff2b18a2115bf33d50ad66238ba4f0899"
+      },
+      "prediction_matches_reference": true,
+      "event": {
+        "event_id": "yamnet-neighborhood-d01df0c4a07d48eeb45160e0c03d870a",
+        "source": "yamnet",
+        "label": "outro",
+        "confidence": 0.89578719312946,
+        "model_version": "google-yamnet-savedmodel-1",
+        "observed_at": "2026-11-18T22:52:56.482656+00:00",
+        "audio_sha256": "54c0de2701beb406d6bbe7e9a9bb3e8ff2b18a2115bf33d50ad66238ba4f0899",
+        "analysis": {
+          "mode": "yamnet",
+          "model_version": "google-yamnet-savedmodel-1",
+          "model_sha256": "b80da2a1a56926fb0767205051a200dd7b3beaf3ea1ea126c42a53943996e5e0",
+          "decision_version": "temporal-v1",
+          "aggregation": "target_event_windows",
+          "label": "outro",
+          "confidence": 0.89578719312946,
+          "top_classes": [
+            {
+              "label": "Music",
+              "score": 0.89578719312946
+            },
+            {
+              "label": "Ringtone",
+              "score": 0.03984571593091838
+            },
+            {
+              "label": "Telephone",
+              "score": 0.017859863232899897
+            },
+            {
+              "label": "Musical instrument",
+              "score": 0.01701571824984664
+            },
+            {
+              "label": "Electronic music",
+              "score": 0.013401174828686635
+            }
+          ],
+          "mean_top_classes": [
+            {
+              "label": "Music",
+              "score": 0.89578719312946
+            },
+            {
+              "label": "Ringtone",
+              "score": 0.03984571593091838
+            },
+            {
+              "label": "Telephone",
+              "score": 0.017859863232899897
+            },
+            {
+              "label": "Musical instrument",
+              "score": 0.01701571824984664
+            },
+            {
+              "label": "Electronic music",
+              "score": 0.013401174828686635
+            }
+          ],
+          "neighborhood_source": {
+            "label": "musica",
+            "score": 0.89578719312946,
+            "model_class": "Music",
+            "version": "neighborhood-v1",
+            "aggregation": "clip_mean",
+            "reason": "Fonte sugerida pela maior média de classe no clipe; requer conferência do morador."
+          },
+          "event_windows": [],
+          "duration_seconds": 12.001,
+          "sample_rate": 16000,
+          "latency_ms": 5371.847,
+          "warnings": [
+            "Escores YAMNet não são probabilidades calibradas nem acurácia; limiares são heurísticos, sem calibração local.",
+            "Análise educacional de conteúdo sonoro; não mede decibéis, volume excessivo ou infração e não substitui alertas de emergência."
+          ]
+        }
+      }
+    }
+  ],
+  "contract_checks": "Real inference, identities, retry and canonical persistence passed for all samples."
+}

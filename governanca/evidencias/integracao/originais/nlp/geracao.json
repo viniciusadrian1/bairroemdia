@@ -1,0 +1,7 @@
+{
+  "modelo_assistente": "Codex / GPT-6 (identidade informada pelo ambiente; sem versão de backend confirmada)",
+  "metodo": "perguntas e respostas curadas por assistente de IA e materializadas em seeds.py; build determinístico sem chamada LLM",
+  "prompt": "Produzir perguntas acessíveis em português sobre fontes oficiais, com respostas fiéis, artigos de apoio, variação informal e recusas; não inventar revisão humana. Ver seeds.py para conteúdo integral.",
+  "treino_executado": false,
+  "revisao_humana": "pendente"
+}

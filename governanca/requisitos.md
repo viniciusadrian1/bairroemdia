@@ -14,6 +14,6 @@ Fonte: enunciado de Governança em IA e Business Analytics da Global Solution fo
 | Um tópico por disciplina, Governança por último | Nove subseções no desenvolvimento; matriz distingue integração e limites |
 | Conclusão escrita pelo grupo; IA apenas para revisar | Texto fornecido pelo grupo e revisado, preservando as ideias e a primeira pessoa |
 | Tópico Links com YouTube e GitHub | URLs finais na seção 4 do relatório e neste repositório |
-| Versão do repositório anterior à entrega | Tag `governanca-v1.2`; submissão e comprovante devem ser registrados pelo grupo |
+| Versão do repositório anterior à entrega | Tag `governanca-v1.3`; submissão e comprovante devem ser registrados pelo grupo |
 
 O barema prevê 4 pontos para documentação, 3 para vídeo e 3 para GitHub. Esta conferência registra presença e verificação dos materiais; a avaliação de mérito e a interpretação final do escopo cabem ao professor. O enunciado não exige expressamente deploy público, slides separados ou APK.

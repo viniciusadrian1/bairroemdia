@@ -1,0 +1,411 @@
+{
+  "scope": "Historical records supporting Governance report; copying does not rerun experiments. Paths in original records may refer to original local workspace.",
+  "files": [
+    {
+      "path": "originais/visao/metrics.json",
+      "source": "03-disciplinas/visao-computacional/evidencias/avaliacao-publica/metrics.json",
+      "bytes": 1586,
+      "sha256": "d2eadde14605db4cc68fea533aa501fff6ae6a0520ac3c3bcd45b0724629522a",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/visao/predictions.json",
+      "source": "03-disciplinas/visao-computacional/evidencias/avaliacao-publica/predictions.json",
+      "bytes": 51383,
+      "sha256": "9c554da2f19756e63e181c9a78a8a3ac17152533410ea1ee66b22243422a7318",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/visao/manifest.json",
+      "source": "03-disciplinas/visao-computacional/dados/amostra_publica/manifest.json",
+      "bytes": 9834,
+      "sha256": "8c3e78cf79d2ef65a6cf9c10cbb1e3e2413b2fd9b1749c2fca81a22ed9399bc8",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/visao/labels/0004_jpg.rf.f92ab952cd8544f887caf35fcccbcd10.txt",
+      "source": "03-disciplinas/visao-computacional/dados/amostra_publica/test/labels/0004_jpg.rf.f92ab952cd8544f887caf35fcccbcd10.txt",
+      "bytes": 74,
+      "sha256": "c95772f0641737243ca84556878d039136d230ef81ca23856f2aa4039df49cc3",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/visao/labels/0040_jpg.rf.ce9dde51c6f4e3fdfb4ad43b0ab1a623.txt",
+      "source": "03-disciplinas/visao-computacional/dados/amostra_publica/test/labels/0040_jpg.rf.ce9dde51c6f4e3fdfb4ad43b0ab1a623.txt",
+      "bytes": 39,
+      "sha256": "28ff6405a41196ac50a46b39df4d730784860bf5873db66a037956b12760bfd0",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/visao/labels/0041_jpg.rf.1f8a699096c7118149354819e27b8018.txt",
+      "source": "03-disciplinas/visao-computacional/dados/amostra_publica/test/labels/0041_jpg.rf.1f8a699096c7118149354819e27b8018.txt",
+      "bytes": 119,
+      "sha256": "9f64e223bbb954b2dc4d27ebedcf42fd1a103b2cd495a48e5252bac4553716b9",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/visao/labels/0081_jpg.rf.d1735a9bb243cb526d9e3e094531c94b.txt",
+      "source": "03-disciplinas/visao-computacional/dados/amostra_publica/test/labels/0081_jpg.rf.d1735a9bb243cb526d9e3e094531c94b.txt",
+      "bytes": 41,
+      "sha256": "98e4212c042b24ec59a0dd60674f7c61c546b7e2aeb0752229eaa3d9b42d9e6f",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/visao/labels/0096_jpg.rf.de125945c49ee744d62c17da76d4d68c.txt",
+      "source": "03-disciplinas/visao-computacional/dados/amostra_publica/test/labels/0096_jpg.rf.de125945c49ee744d62c17da76d4d68c.txt",
+      "bytes": 245,
+      "sha256": "f3f6b45313338abfe96158153bf09aa7361a34b379bcea5f7bc9ae778910a9a5",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/visao/labels/0107_jpg.rf.b36504f4b2e1ec9ff8cebacf8ab4c255.txt",
+      "source": "03-disciplinas/visao-computacional/dados/amostra_publica/test/labels/0107_jpg.rf.b36504f4b2e1ec9ff8cebacf8ab4c255.txt",
+      "bytes": 37,
+      "sha256": "5e7117e9d8db463e669d422676f73f4d998f62c4330c95e32b26a279f52f6fb2",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/visao/labels/0118_jpg.rf.fe3852eb5521e8919a668ba3a9207f8d.txt",
+      "source": "03-disciplinas/visao-computacional/dados/amostra_publica/test/labels/0118_jpg.rf.fe3852eb5521e8919a668ba3a9207f8d.txt",
+      "bytes": 79,
+      "sha256": "db906342238d9b3838039666c4b217a6d8e9639e0171e0dc1d3f5f4da461f17d",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/visao/labels/0129_jpg.rf.ba3c9ced9c7139a017f2b8a136c641f7.txt",
+      "source": "03-disciplinas/visao-computacional/dados/amostra_publica/test/labels/0129_jpg.rf.ba3c9ced9c7139a017f2b8a136c641f7.txt",
+      "bytes": 78,
+      "sha256": "d9c537b576b64441dacc9045ca45d979a2746504f36153d28070216269c42812",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/visao/labels/0148_jpg.rf.878d22109d19b7062b708cdf0301d3ce.txt",
+      "source": "03-disciplinas/visao-computacional/dados/amostra_publica/test/labels/0148_jpg.rf.878d22109d19b7062b708cdf0301d3ce.txt",
+      "bytes": 41,
+      "sha256": "4da4209542ab007a63d65eff623317124b01f5ba000aaba42b05c83eb8202bd6",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/visao/labels/0151_jpg.rf.8530ac502a1dbc4c2b732e222c2a1d9b.txt",
+      "source": "03-disciplinas/visao-computacional/dados/amostra_publica/test/labels/0151_jpg.rf.8530ac502a1dbc4c2b732e222c2a1d9b.txt",
+      "bytes": 159,
+      "sha256": "2aac4fa0beba2c1550d9229ffe732e477c6377e2d5fc12e71ee5da018eae7172",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/visao/labels/0162_jpg.rf.ed0e4831f8e4443c70192b1771207169.txt",
+      "source": "03-disciplinas/visao-computacional/dados/amostra_publica/test/labels/0162_jpg.rf.ed0e4831f8e4443c70192b1771207169.txt",
+      "bytes": 72,
+      "sha256": "4892451cc09489bcaf0f1386a24374903695fa4a2440c1544cd2f5d2c611d3f9",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/visao/labels/0166_jpg.rf.c4ca9745b928027131937814c34d76e6.txt",
+      "source": "03-disciplinas/visao-computacional/dados/amostra_publica/test/labels/0166_jpg.rf.c4ca9745b928027131937814c34d76e6.txt",
+      "bytes": 84,
+      "sha256": "f99d3de6c65b7a07472565d910a43c9b92039abc1709f7d7f7cac75914daab5e",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/visao/evaluate.py",
+      "source": "03-disciplinas/visao-computacional/desenvolvimento/evaluate.py",
+      "bytes": 6760,
+      "sha256": "bd303097c49022ac8c00e7ec11bbcede17b42e6fce5409ba8002595bdbd58cb8",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/nlp/corpus_qa.jsonl",
+      "source": "03-disciplinas/nlp-chatbots-virtual-agents/artefatos/corpus_qa.jsonl",
+      "bytes": 230420,
+      "sha256": "be82c69cba7f4712c9ea200912e10121024e8b860bbbbf9540607dc22840a0d0",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/nlp/corpus_chat.jsonl",
+      "source": "03-disciplinas/nlp-chatbots-virtual-agents/artefatos/corpus_chat.jsonl",
+      "bytes": 59104,
+      "sha256": "7a1a1a28e2b29dde733fefc683daccfe1b8241cec240e913c7359acf40b74c8b",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/nlp/corpus_teste.jsonl",
+      "source": "03-disciplinas/nlp-chatbots-virtual-agents/artefatos/corpus_teste.jsonl",
+      "bytes": 5664,
+      "sha256": "ff88627badc9d99f3a11af27e356012c1b6ebc4a51a256115fee87699939eb95",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/nlp/geracao.json",
+      "source": "03-disciplinas/nlp-chatbots-virtual-agents/artefatos/geracao.json",
+      "bytes": 538,
+      "sha256": "262772eb11da328d93c6a84bd771a84c15e9748201238cc5ae8c25af96196ea8",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/nlp/teste-congelado.json",
+      "source": "03-disciplinas/nlp-chatbots-virtual-agents/artefatos/teste-congelado.json",
+      "bytes": 201,
+      "sha256": "8bad0ad3d0ec6ad41b77ae2a04f38dd61cd53eb5f97742c52a2edbc5287f75f5",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/nlp/revisao.csv",
+      "source": "03-disciplinas/nlp-chatbots-virtual-agents/artefatos/revisao.csv",
+      "bytes": 3582,
+      "sha256": "2c7f4357e3d76cd9d7f4c1a9cdcd400c637197f4158982d26e24e1c771b051b1",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/nlp/qualidade.json",
+      "source": "03-disciplinas/nlp-chatbots-virtual-agents/evidencias/qualidade.json",
+      "bytes": 2507,
+      "sha256": "05990d789328cf3bc42412132bfa63c2fc3dea8c41ea58cf0d839e14666a7ded",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/nlp/anonimizacao.json",
+      "source": "03-disciplinas/nlp-chatbots-virtual-agents/evidencias/anonimizacao.json",
+      "bytes": 1076,
+      "sha256": "5d84de971ee9892d9c9778b0ba13014ba7337c29f5db74f0996cfdbbe2d7c9e3",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/nlp/trechos_excluidos.json",
+      "source": "03-disciplinas/nlp-chatbots-virtual-agents/evidencias/trechos_excluidos.json",
+      "bytes": 142,
+      "sha256": "1574d0d29a59affac7f81d7fd5e2ce44d9af2043b293181e3a55cbb102c145de",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/nlp/fontes.json",
+      "source": "03-disciplinas/nlp-chatbots-virtual-agents/fontes/manifesto.json",
+      "bytes": 3539,
+      "sha256": "063547030eb250264e92f2b6a7e60e8a94a5d06d086584d52877f5ad172a2684",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/nlp/codigo/pipeline.py",
+      "source": "03-disciplinas/nlp-chatbots-virtual-agents/desenvolvimento/pipeline.py",
+      "bytes": 18470,
+      "sha256": "c8e3474a38c5659a3a9dfc7c5ffa5a3d78168faeaae424a7afb8e0b811add6a9",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/nlp/codigo/seeds.py",
+      "source": "03-disciplinas/nlp-chatbots-virtual-agents/desenvolvimento/seeds.py",
+      "bytes": 23628,
+      "sha256": "f749222cee10c7c09ddab70db8678a53a6bb3b3f16df58a02407fb2cd3c87c5a",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/nlp/codigo/requirements.txt",
+      "source": "03-disciplinas/nlp-chatbots-virtual-agents/requirements.txt",
+      "bytes": 300,
+      "sha256": "0381d2d27225d1e2ce685aee67fed656ba3375269b5041c12965856bb39168b8",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/capacidade/resultados-integracao.json",
+      "source": "03-disciplinas/cluster-computing/evidencias/resultados-integracao.json",
+      "bytes": 5857,
+      "sha256": "a5fe58a6b754c1e83af840dbced74a48ccb0d074cddbabfc2483eec215b4a8b0",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/capacidade/results/bairro_2_workers_run1.json",
+      "source": "03-disciplinas/cluster-computing/desenvolvimento/results/bairro_2_workers_run1.json",
+      "bytes": 54279,
+      "sha256": "91f4b0e3cbd5428f0e5b714b4efeaa9e9291ff670c418ff9e170eb0d8621c6b6",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/capacidade/results/bairro_2_workers_run2.json",
+      "source": "03-disciplinas/cluster-computing/desenvolvimento/results/bairro_2_workers_run2.json",
+      "bytes": 54279,
+      "sha256": "f035f9e42af7bca7496c78feede83946e209f6403722c075d2c845d09b2794bd",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/capacidade/results/bairro_2_workers_run3.json",
+      "source": "03-disciplinas/cluster-computing/desenvolvimento/results/bairro_2_workers_run3.json",
+      "bytes": 54279,
+      "sha256": "97c549052f377137bcb226bd341fa6bc01594265876b84d9dcc7572fb8864275",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/capacidade/results/bairro_4_workers_run1.json",
+      "source": "03-disciplinas/cluster-computing/desenvolvimento/results/bairro_4_workers_run1.json",
+      "bytes": 54409,
+      "sha256": "747751ed99809038647b9ee80f38258a2cee4f95b74f31453fb9e4f7e629d671",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/capacidade/results/bairro_4_workers_run2.json",
+      "source": "03-disciplinas/cluster-computing/desenvolvimento/results/bairro_4_workers_run2.json",
+      "bytes": 54406,
+      "sha256": "3b3a522cd1a6dcd83d8392d2e65049bdb1299e08045a7ca07f3d37175c8b624a",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/capacidade/results/bairro_4_workers_run3.json",
+      "source": "03-disciplinas/cluster-computing/desenvolvimento/results/bairro_4_workers_run3.json",
+      "bytes": 54409,
+      "sha256": "c70961e6ceaccda2420591002d11c72890d188bfcf0d336789a083b3343773ae",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/capacidade/models/bairro_2_workers.imsx",
+      "source": "03-disciplinas/cluster-computing/desenvolvimento/models/bairro_2_workers.imsx",
+      "bytes": 865,
+      "sha256": "5de7a6f6066f0c3646ac678ada81402600fa2392a20579c596752d46103759d1",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/capacidade/models/bairro_4_workers.imsx",
+      "source": "03-disciplinas/cluster-computing/desenvolvimento/models/bairro_4_workers.imsx",
+      "bytes": 865,
+      "sha256": "42e9a4f0b007a54e8b24fbd7f6e7be7891445b742a31b7a906d534c9f213c1c1",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/capacidade/RunISPD.java",
+      "source": "03-disciplinas/cluster-computing/desenvolvimento/RunISPD.java",
+      "bytes": 6126,
+      "sha256": "b3683131236a253f29fc543e23b8a2cb0448e5941043a0d92de46c487a1fb1fe",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/desempenho/visao-real/manifesto.json",
+      "source": "03-disciplinas/computacao-quantica/evidencias/visao-real/manifesto.json",
+      "bytes": 3093,
+      "sha256": "37c4d191ba6514b83f5b653640684739c7ffa759be27b4919070c562764527b0",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/desempenho/visao-real/chamadas.csv",
+      "source": "03-disciplinas/computacao-quantica/evidencias/visao-real/chamadas.csv",
+      "bytes": 36937,
+      "sha256": "57f9d5d113bb6ceb2cb4774b450dc7c3dd7e7e170b8e1e74a06f911f3d3601c8",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/desempenho/visao-real/execucoes.csv",
+      "source": "03-disciplinas/computacao-quantica/evidencias/visao-real/execucoes.csv",
+      "bytes": 6419,
+      "sha256": "0f316d92946a1ea1d34b4c0b795c3a07b69744d4ac8121d3af63c41542c65ae5",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/desempenho/visao-real/resumo.csv",
+      "source": "03-disciplinas/computacao-quantica/evidencias/visao-real/resumo.csv",
+      "bytes": 2947,
+      "sha256": "54afdbb3ec27e6ba5955eae4df7f4c34b4aee64fb0a3c709f9e691c8f9789de3",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/desempenho/visao-real/entradas.json",
+      "source": "03-disciplinas/computacao-quantica/evidencias/visao-real/entradas.json",
+      "bytes": 3988,
+      "sha256": "975cc5d4359f35f15a603b19d3309e532da70f05ea33f91bfcfb49bb59f55606",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/desempenho/http-visao-real/manifesto.json",
+      "source": "03-disciplinas/computacao-quantica/evidencias/http-visao-real/manifesto.json",
+      "bytes": 1554,
+      "sha256": "40659d86ed587fcf95404ac4728492d8fc7b2e1f824c135a20087d53e9105aaa",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/desempenho/http-visao-real/chamadas.csv",
+      "source": "03-disciplinas/computacao-quantica/evidencias/http-visao-real/chamadas.csv",
+      "bytes": 8042,
+      "sha256": "d729a5c6704ed2dff2e1957d095165f110d9611b01582c22f6a99eb2f8da8e87",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/desempenho/http-visao-real/execucoes.csv",
+      "source": "03-disciplinas/computacao-quantica/evidencias/http-visao-real/execucoes.csv",
+      "bytes": 1253,
+      "sha256": "a400e227667a30a0da0174141636dcf84bedea5613627390eea14e4fff6842ea",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/desempenho/http-visao-real/resumo.csv",
+      "source": "03-disciplinas/computacao-quantica/evidencias/http-visao-real/resumo.csv",
+      "bytes": 641,
+      "sha256": "f71b9757751acae287ed1a2620d492efc73147f4a30c6f77a09d8d9b9bf090b6",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/desempenho/http-visao-real/entradas.json",
+      "source": "03-disciplinas/computacao-quantica/evidencias/http-visao-real/entradas.json",
+      "bytes": 2727,
+      "sha256": "0662fae31bbef9100f539e168358b4bfbe8e89b8a633f69827ba6a67b17a743d",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/desempenho/visao-real/fontes/vision.py",
+      "source": "03-disciplinas/computacao-quantica/evidencias/visao-real/fontes/vision.py",
+      "bytes": 6137,
+      "sha256": "227b8b9ad366ffaf1eb339271c0545b4e2e2d35012026d6fc7ce99576a1190b0",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/desempenho/visao-real/referencia-serial.json",
+      "source": "03-disciplinas/computacao-quantica/evidencias/visao-real/referencia-serial.json",
+      "bytes": 7799,
+      "sha256": "466e067e917f866f68d386af507e7e8f0e777379cf803958f31ea23272a1a59d",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/desempenho/codigo/benchmark_visao.py",
+      "source": "03-disciplinas/computacao-quantica/desenvolvimento/benchmark_visao.py",
+      "bytes": 13572,
+      "sha256": "84dfbee7308e9d338364a2c957f46cfb7a1bd8401c9dfcce37a6411c77b9840d",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/desempenho/codigo/benchmark_http_visao.py",
+      "source": "03-disciplinas/computacao-quantica/desenvolvimento/benchmark_http_visao.py",
+      "bytes": 7254,
+      "sha256": "57887706382408307b7ffc22127f3f24767b4ca7307d5396eea80038cb348fbb",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/assistente/avaliacao-final.json",
+      "source": "03-disciplinas/generative-ai/evidencias/avaliacao-final.json",
+      "bytes": 59070,
+      "sha256": "31a2f6586c3cd36b63a08dad6a23ce7e1c453f606517c7fad76ade3b5b4d39ae",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/som/manifest.json",
+      "source": "02-solucao-integrada/audio-demo/neighborhood/manifest.json",
+      "bytes": 1985,
+      "sha256": "218bf25f0e6f198ed3639fdb9d16c60d2bbd00bfc68cd9f8c0895eaaaf45100e",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/som/results-20261118T225238Z.json",
+      "source": "02-solucao-integrada/audio-demo/neighborhood/results-20261118T225238Z.json",
+      "bytes": 11048,
+      "sha256": "47dc279142c5b690fe19b1dc2bc3fe2979d6d12674fd1e011ebe715e1cd6d5d8",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/som/prepare_samples.py",
+      "source": "02-solucao-integrada/audio-demo/neighborhood/prepare_samples.py",
+      "bytes": 3204,
+      "sha256": "27909e370988e4f1eb67fb7e4acc7bec2ba0cc96929571dda1761efb9a5af6c8",
+      "transformation": "none; original bytes preserved"
+    },
+    {
+      "path": "originais/som/verify_http.py",
+      "source": "02-solucao-integrada/audio-demo/neighborhood/verify_http.py",
+      "bytes": 2531,
+      "sha256": "0bf10e702912218992bff71bf0c08026d114760125fd3ef1efc38edeb17db4a5",
+      "transformation": "none; original bytes preserved"
+    }
+  ]
+}

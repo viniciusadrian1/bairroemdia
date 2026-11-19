@@ -5,3 +5,6 @@
 *.jsonl text eol=lf
 *.csv text eol=lf
 *.ps1 text eol=crlf
+
+# Preserve hashes and original historical evidence bytes.
+governanca/evidencias/integracao/originais/** -text whitespace=cr-at-eol

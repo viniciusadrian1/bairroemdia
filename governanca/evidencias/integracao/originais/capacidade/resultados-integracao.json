@@ -1,0 +1,171 @@
+{
+  "schema_version": "1.0",
+  "project": "Bairro em Dia",
+  "discipline": "Cluster Computing",
+  "status": "executed_validated",
+  "evidence_kind": "simulation",
+  "validation_scope": "Local unmodified iSPD 2.0; deterministic synthetic workload; not an application benchmark",
+  "engine": {
+    "name": "iSPD",
+    "version": "2.0",
+    "jar_sha256": "411e1bf4751ec9a6f2e4b450a178f092584bd1ac0a55ece44757ce53cc9808f1",
+    "execution": "ProgressoSimulacao.simulacaoSequencial plus native CLI -n 2"
+  },
+  "hypotheses": {
+    "tasks": 120,
+    "task_work_mflop": 60000,
+    "input_mbit": 16,
+    "arrival_s": 0,
+    "worker_mflop_per_s": 20000,
+    "worker_cores": 1,
+    "bandwidth_mbit_per_s": 1000,
+    "latency_s": 0.001,
+    "scheduler": "RoundRobin",
+    "calibrated_against_application": false,
+    "return_mbit_per_task": 0.0009765625,
+    "return_size_origin": "Fixed by iSPD 2.0 Random workload implementation"
+  },
+  "scenarios": [
+    {
+      "id": "bairro_2_workers",
+      "workers": 2,
+      "total_simulated_time_s": 180.0350009765625,
+      "tasks_completed": 120,
+      "tasks_per_worker": 60,
+      "processing_s_per_worker": 180.0,
+      "processing_resources": [
+        {
+          "scenario": "bairro_2_workers",
+          "resource": "Cluster0 master",
+          "worker_number": 0,
+          "tasks": 0,
+          "work_mflop": 0.0,
+          "processing_s": 0.0,
+          "task_share_pct": 0.0,
+          "busy_fraction_of_makespan_pct": 0.0
+        },
+        {
+          "scenario": "bairro_2_workers",
+          "resource": "Cluster0 node 1",
+          "worker_number": 1,
+          "tasks": 60,
+          "work_mflop": 3600000.0,
+          "processing_s": 180.0,
+          "task_share_pct": 50.0,
+          "busy_fraction_of_makespan_pct": 99.98055879336094
+        },
+        {
+          "scenario": "bairro_2_workers",
+          "resource": "Cluster0 node 2",
+          "worker_number": 2,
+          "tasks": 60,
+          "work_mflop": 3600000.0,
+          "processing_s": 180.0,
+          "task_share_pct": 50.0,
+          "busy_fraction_of_makespan_pct": 99.98055879336094
+        }
+      ],
+      "communication_resources": [
+        {
+          "Id": "Cluster0",
+          "MbitsTransmitidos": 1920.1171875,
+          "SegundosDeTransmissao": 2.160117187500006
+        }
+      ],
+      "model": "desenvolvimento/models/bairro_2_workers.imsx",
+      "model_sha256": "5de7a6f6066f0c3646ac678ada81402600fa2392a20579c596752d46103759d1",
+      "raw_result": "desenvolvimento/results/bairro_2_workers_run1.json",
+      "raw_result_sha256": "91f4b0e3cbd5428f0e5b714b4efeaa9e9291ff670c418ff9e170eb0d8621c6b6",
+      "executed_at": "2026-11-10T22:53:53.475776400-03:00"
+    },
+    {
+      "id": "bairro_4_workers",
+      "workers": 4,
+      "total_simulated_time_s": 90.06900097656249,
+      "tasks_completed": 120,
+      "tasks_per_worker": 30,
+      "processing_s_per_worker": 90.0,
+      "processing_resources": [
+        {
+          "scenario": "bairro_4_workers",
+          "resource": "Cluster0 master",
+          "worker_number": 0,
+          "tasks": 0,
+          "work_mflop": 0.0,
+          "processing_s": 0.0,
+          "task_share_pct": 0.0,
+          "busy_fraction_of_makespan_pct": 0.0
+        },
+        {
+          "scenario": "bairro_4_workers",
+          "resource": "Cluster0 node 1",
+          "worker_number": 1,
+          "tasks": 30,
+          "work_mflop": 1800000.0,
+          "processing_s": 90.0,
+          "task_share_pct": 25.0,
+          "busy_fraction_of_makespan_pct": 99.9233909826751
+        },
+        {
+          "scenario": "bairro_4_workers",
+          "resource": "Cluster0 node 2",
+          "worker_number": 2,
+          "tasks": 30,
+          "work_mflop": 1800000.0,
+          "processing_s": 90.0,
+          "task_share_pct": 25.0,
+          "busy_fraction_of_makespan_pct": 99.9233909826751
+        },
+        {
+          "scenario": "bairro_4_workers",
+          "resource": "Cluster0 node 3",
+          "worker_number": 3,
+          "tasks": 30,
+          "work_mflop": 1800000.0,
+          "processing_s": 90.0,
+          "task_share_pct": 25.0,
+          "busy_fraction_of_makespan_pct": 99.9233909826751
+        },
+        {
+          "scenario": "bairro_4_workers",
+          "resource": "Cluster0 node 4",
+          "worker_number": 4,
+          "tasks": 30,
+          "work_mflop": 1800000.0,
+          "processing_s": 90.0,
+          "task_share_pct": 25.0,
+          "busy_fraction_of_makespan_pct": 99.9233909826751
+        }
+      ],
+      "communication_resources": [
+        {
+          "Id": "Cluster0",
+          "MbitsTransmitidos": 1920.1171875,
+          "SegundosDeTransmissao": 2.160117187500006
+        }
+      ],
+      "model": "desenvolvimento/models/bairro_4_workers.imsx",
+      "model_sha256": "42e9a4f0b007a54e8b24fbd7f6e7be7891445b742a31b7a906d534c9f213c1c1",
+      "raw_result": "desenvolvimento/results/bairro_4_workers_run1.json",
+      "raw_result_sha256": "747751ed99809038647b9ee80f38258a2cee4f95b74f31453fb9e4f7e629d671",
+      "executed_at": "2026-11-10T22:53:53.534638200-03:00"
+    }
+  ],
+  "derived": {
+    "reduction_percent": 49.971394180019495,
+    "ratio_t2_t4": 1.9988564214608164,
+    "relative_scaling_efficiency_percent": 99.94282107304082
+  },
+  "integration": {
+    "mode": "offline_capacity_study",
+    "requires_live_ispd_connection": false,
+    "do_not_claim": [
+      "Real application latency or throughput",
+      "Accuracy of vision model",
+      "Production capacity or cost",
+      "IoT conformity",
+      "Physical cluster deployed"
+    ]
+  },
+  "evidence_capture_method": "Original Swing panels rendered through printAll; not desktop screenshots"
+}

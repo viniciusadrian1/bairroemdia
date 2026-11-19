@@ -1,0 +1,154 @@
+{
+  "dataset": "Ryukijano/Pothole-detection-Yolov8",
+  "revision": "7191ceeb92bbf46359794d7ba23a884043da96e1",
+  "consulted": "2026-11-10",
+  "selection": "Primeiras 12 imagens ordenadas lexicalmente do split test publicado, sem sele\u00e7\u00e3o por resultado",
+  "declared_license": "openrail",
+  "independence_from_external_model_training": "not_verified",
+  "files": [
+    {
+      "path": "test/images/0004_jpg.rf.f92ab952cd8544f887caf35fcccbcd10.jpg",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/images/0004_jpg.rf.f92ab952cd8544f887caf35fcccbcd10.jpg",
+      "sha256": "9ee2b6a63c30be888a60ae94adfbb998a9cce32eabec19f80d0d6061e8836742",
+      "bytes": 58508
+    },
+    {
+      "path": "test/labels/0004_jpg.rf.f92ab952cd8544f887caf35fcccbcd10.txt",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/labels/0004_jpg.rf.f92ab952cd8544f887caf35fcccbcd10.txt",
+      "sha256": "c95772f0641737243ca84556878d039136d230ef81ca23856f2aa4039df49cc3",
+      "bytes": 74
+    },
+    {
+      "path": "test/images/0040_jpg.rf.ce9dde51c6f4e3fdfb4ad43b0ab1a623.jpg",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/images/0040_jpg.rf.ce9dde51c6f4e3fdfb4ad43b0ab1a623.jpg",
+      "sha256": "dfa8c906c7d2c308ca11e86efc0ad1da328792440d7c92ac48bb7e588cfebf53",
+      "bytes": 70483
+    },
+    {
+      "path": "test/labels/0040_jpg.rf.ce9dde51c6f4e3fdfb4ad43b0ab1a623.txt",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/labels/0040_jpg.rf.ce9dde51c6f4e3fdfb4ad43b0ab1a623.txt",
+      "sha256": "28ff6405a41196ac50a46b39df4d730784860bf5873db66a037956b12760bfd0",
+      "bytes": 39
+    },
+    {
+      "path": "test/images/0041_jpg.rf.1f8a699096c7118149354819e27b8018.jpg",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/images/0041_jpg.rf.1f8a699096c7118149354819e27b8018.jpg",
+      "sha256": "115b215cd85caf77e73919247215d24dbf1b7f85ad2a65127565dbce39769a24",
+      "bytes": 87443
+    },
+    {
+      "path": "test/labels/0041_jpg.rf.1f8a699096c7118149354819e27b8018.txt",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/labels/0041_jpg.rf.1f8a699096c7118149354819e27b8018.txt",
+      "sha256": "9f64e223bbb954b2dc4d27ebedcf42fd1a103b2cd495a48e5252bac4553716b9",
+      "bytes": 119
+    },
+    {
+      "path": "test/images/0081_jpg.rf.d1735a9bb243cb526d9e3e094531c94b.jpg",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/images/0081_jpg.rf.d1735a9bb243cb526d9e3e094531c94b.jpg",
+      "sha256": "fb232f1fbba5ccee431da3c41ebdb433a875369e1d36521993bcd168caa37fb6",
+      "bytes": 59028
+    },
+    {
+      "path": "test/labels/0081_jpg.rf.d1735a9bb243cb526d9e3e094531c94b.txt",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/labels/0081_jpg.rf.d1735a9bb243cb526d9e3e094531c94b.txt",
+      "sha256": "98e4212c042b24ec59a0dd60674f7c61c546b7e2aeb0752229eaa3d9b42d9e6f",
+      "bytes": 41
+    },
+    {
+      "path": "test/images/0096_jpg.rf.de125945c49ee744d62c17da76d4d68c.jpg",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/images/0096_jpg.rf.de125945c49ee744d62c17da76d4d68c.jpg",
+      "sha256": "ff0aeaee2e4d25a8b63bcf71da14c88551f7cf694040da9aece68136535410cb",
+      "bytes": 73216
+    },
+    {
+      "path": "test/labels/0096_jpg.rf.de125945c49ee744d62c17da76d4d68c.txt",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/labels/0096_jpg.rf.de125945c49ee744d62c17da76d4d68c.txt",
+      "sha256": "f3f6b45313338abfe96158153bf09aa7361a34b379bcea5f7bc9ae778910a9a5",
+      "bytes": 245
+    },
+    {
+      "path": "test/images/0107_jpg.rf.b36504f4b2e1ec9ff8cebacf8ab4c255.jpg",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/images/0107_jpg.rf.b36504f4b2e1ec9ff8cebacf8ab4c255.jpg",
+      "sha256": "0a9841df3d4d084bf0b0f61813bd599db4f5ebf991008db3da14090728e34919",
+      "bytes": 105220
+    },
+    {
+      "path": "test/labels/0107_jpg.rf.b36504f4b2e1ec9ff8cebacf8ab4c255.txt",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/labels/0107_jpg.rf.b36504f4b2e1ec9ff8cebacf8ab4c255.txt",
+      "sha256": "5e7117e9d8db463e669d422676f73f4d998f62c4330c95e32b26a279f52f6fb2",
+      "bytes": 37
+    },
+    {
+      "path": "test/images/0118_jpg.rf.fe3852eb5521e8919a668ba3a9207f8d.jpg",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/images/0118_jpg.rf.fe3852eb5521e8919a668ba3a9207f8d.jpg",
+      "sha256": "be224061fcfe818663d750fd9345a4439d0884040fbd92f1b701d5bacc495d95",
+      "bytes": 80199
+    },
+    {
+      "path": "test/labels/0118_jpg.rf.fe3852eb5521e8919a668ba3a9207f8d.txt",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/labels/0118_jpg.rf.fe3852eb5521e8919a668ba3a9207f8d.txt",
+      "sha256": "db906342238d9b3838039666c4b217a6d8e9639e0171e0dc1d3f5f4da461f17d",
+      "bytes": 79
+    },
+    {
+      "path": "test/images/0129_jpg.rf.ba3c9ced9c7139a017f2b8a136c641f7.jpg",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/images/0129_jpg.rf.ba3c9ced9c7139a017f2b8a136c641f7.jpg",
+      "sha256": "2a4ac1c3e9bd4950bd04a0bf54c7cef9b6e7ee2b0eadc6c01bc17729bb8864d3",
+      "bytes": 62297
+    },
+    {
+      "path": "test/labels/0129_jpg.rf.ba3c9ced9c7139a017f2b8a136c641f7.txt",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/labels/0129_jpg.rf.ba3c9ced9c7139a017f2b8a136c641f7.txt",
+      "sha256": "d9c537b576b64441dacc9045ca45d979a2746504f36153d28070216269c42812",
+      "bytes": 78
+    },
+    {
+      "path": "test/images/0148_jpg.rf.878d22109d19b7062b708cdf0301d3ce.jpg",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/images/0148_jpg.rf.878d22109d19b7062b708cdf0301d3ce.jpg",
+      "sha256": "9995e7c6be7bce33a9c53f142124895185861be7292e5a1c588ffbcfdbe1fff8",
+      "bytes": 55592
+    },
+    {
+      "path": "test/labels/0148_jpg.rf.878d22109d19b7062b708cdf0301d3ce.txt",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/labels/0148_jpg.rf.878d22109d19b7062b708cdf0301d3ce.txt",
+      "sha256": "4da4209542ab007a63d65eff623317124b01f5ba000aaba42b05c83eb8202bd6",
+      "bytes": 41
+    },
+    {
+      "path": "test/images/0151_jpg.rf.8530ac502a1dbc4c2b732e222c2a1d9b.jpg",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/images/0151_jpg.rf.8530ac502a1dbc4c2b732e222c2a1d9b.jpg",
+      "sha256": "f2da3a7977d3f1d290f5abe2554d20957b5138f23354df5bbe79c658eeb4bd11",
+      "bytes": 57239
+    },
+    {
+      "path": "test/labels/0151_jpg.rf.8530ac502a1dbc4c2b732e222c2a1d9b.txt",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/labels/0151_jpg.rf.8530ac502a1dbc4c2b732e222c2a1d9b.txt",
+      "sha256": "2aac4fa0beba2c1550d9229ffe732e477c6377e2d5fc12e71ee5da018eae7172",
+      "bytes": 159
+    },
+    {
+      "path": "test/images/0162_jpg.rf.ed0e4831f8e4443c70192b1771207169.jpg",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/images/0162_jpg.rf.ed0e4831f8e4443c70192b1771207169.jpg",
+      "sha256": "773b09430b0fd4ee12bc26b03c9ec49ea8e526035a57c408c155e1a2435f5197",
+      "bytes": 89847
+    },
+    {
+      "path": "test/labels/0162_jpg.rf.ed0e4831f8e4443c70192b1771207169.txt",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/labels/0162_jpg.rf.ed0e4831f8e4443c70192b1771207169.txt",
+      "sha256": "4892451cc09489bcaf0f1386a24374903695fa4a2440c1544cd2f5d2c611d3f9",
+      "bytes": 72
+    },
+    {
+      "path": "test/images/0166_jpg.rf.c4ca9745b928027131937814c34d76e6.jpg",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/images/0166_jpg.rf.c4ca9745b928027131937814c34d76e6.jpg",
+      "sha256": "3c4e022e8021a57e9a06a54726a1b3735fdb9b0adb4343072ed78dbc091b1737",
+      "bytes": 58912
+    },
+    {
+      "path": "test/labels/0166_jpg.rf.c4ca9745b928027131937814c34d76e6.txt",
+      "url": "https://huggingface.co/datasets/Ryukijano/Pothole-detection-Yolov8/resolve/7191ceeb92bbf46359794d7ba23a884043da96e1/test/labels/0166_jpg.rf.c4ca9745b928027131937814c34d76e6.txt",
+      "sha256": "f99d3de6c65b7a07472565d910a43c9b92039abc1709f7d7f7cac75914daab5e",
+      "bytes": 84
+    }
+  ]
+}

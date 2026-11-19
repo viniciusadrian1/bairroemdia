@@ -16,3 +16,7 @@ Os arquivos deste diretório apoiam a demonstração de Governança. Não são b
 A revisão na demonstração do RPA foi assistida na interface. Uma orientação incorreta do modelo sobre volume sonoro foi identificada e tratada durante o ensaio, como registrado em `rpa/validacao.json`. A evidência confirma o comportamento do fluxo demonstrado, não a confiabilidade semântica de toda resposta do modelo.
 
 Para reproduzir o recebimento de um lote e sua retomada, siga o tópico RPA do [README principal](../../README.md). Use somente dados sintéticos e preserve a identificação do lote ao repetir uma execução.
+
+## Dados dos estudos de integração
+
+O [complemento de evidências](integracao/README.md) relaciona dados, parâmetros e código histórico aos resultados do relatório, com verificador offline. Ele não repete as inferências nem substitui revisão humana.

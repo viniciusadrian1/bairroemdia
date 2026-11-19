@@ -1,0 +1,381 @@
+[
+  {
+    "mode": "model",
+    "detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.910094,
+        "bbox": [
+          213.38,
+          433.81,
+          374.56,
+          554.03
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.766789,
+        "bbox": [
+          481.28,
+          356.61,
+          527.9,
+          380.3
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.735501,
+        "bbox": [
+          3.66,
+          0.0,
+          432.9,
+          78.2
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.377275,
+        "bbox": [
+          432.17,
+          390.48,
+          478.1,
+          417.57
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.25631,
+        "bbox": [
+          260.85,
+          0.0,
+          640.0,
+          112.15
+        ]
+      }
+    ],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 92.692,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  },
+  {
+    "mode": "model",
+    "detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.936856,
+        "bbox": [
+          142.07,
+          446.68,
+          204.26,
+          495.11
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.636165,
+        "bbox": [
+          443.64,
+          430.12,
+          640.0,
+          524.71
+        ]
+      }
+    ],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 95.414,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  },
+  {
+    "mode": "model",
+    "detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.837577,
+        "bbox": [
+          264.62,
+          313.34,
+          359.18,
+          356.29
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.69869,
+        "bbox": [
+          246.73,
+          0.0,
+          640.0,
+          98.27
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.670445,
+        "bbox": [
+          4.67,
+          496.28,
+          228.62,
+          637.55
+        ]
+      }
+    ],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 101.683,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  },
+  {
+    "mode": "model",
+    "detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.295781,
+        "bbox": [
+          253.61,
+          477.57,
+          383.87,
+          596.13
+        ]
+      }
+    ],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 105.187,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  },
+  {
+    "mode": "model",
+    "detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.777529,
+        "bbox": [
+          70.0,
+          259.65,
+          154.06,
+          285.94
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.743774,
+        "bbox": [
+          403.12,
+          319.8,
+          497.16,
+          383.26
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.620625,
+        "bbox": [
+          513.04,
+          388.57,
+          594.93,
+          449.83
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.260729,
+        "bbox": [
+          7.81,
+          456.79,
+          365.72,
+          639.7
+        ]
+      }
+    ],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 99.843,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  },
+  {
+    "mode": "model",
+    "detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.687817,
+        "bbox": [
+          0.9,
+          0.0,
+          233.14,
+          373.96
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.536542,
+        "bbox": [
+          327.02,
+          0.0,
+          640.0,
+          369.12
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.354681,
+        "bbox": [
+          0.0,
+          281.3,
+          525.05,
+          640.0
+        ]
+      }
+    ],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 102.779,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  },
+  {
+    "mode": "model",
+    "detections": [],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 115.402,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  },
+  {
+    "mode": "model",
+    "detections": [],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 103.966,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  },
+  {
+    "mode": "model",
+    "detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.548559,
+        "bbox": [
+          5.23,
+          323.1,
+          286.08,
+          474.61
+        ]
+      }
+    ],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 116.935,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  },
+  {
+    "mode": "model",
+    "detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.810521,
+        "bbox": [
+          296.27,
+          343.63,
+          338.26,
+          366.72
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.803831,
+        "bbox": [
+          234.33,
+          380.27,
+          332.34,
+          424.11
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.682887,
+        "bbox": [
+          382.62,
+          264.14,
+          406.33,
+          275.43
+        ]
+      }
+    ],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 107.395,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  },
+  {
+    "mode": "model",
+    "detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.839544,
+        "bbox": [
+          220.73,
+          220.34,
+          389.89,
+          280.04
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.601555,
+        "bbox": [
+          117.84,
+          402.15,
+          593.34,
+          569.73
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.371698,
+        "bbox": [
+          480.24,
+          240.59,
+          529.7,
+          262.7
+        ]
+      }
+    ],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 140.596,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  },
+  {
+    "mode": "model",
+    "detections": [],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 121.549,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  }
+]

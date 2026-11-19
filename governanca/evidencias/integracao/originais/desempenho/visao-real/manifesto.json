@@ -1,0 +1,73 @@
+{
+  "status": "passed",
+  "executed_at_utc": "2026-11-11T02:31:52.418129+00:00",
+  "evidence_kind": "real_onnx_adapter_controlled_batch_load",
+  "script_sha256": "84dfbee7308e9d338364a2c957f46cfb7a1bd8401c9dfcce37a6411c77b9840d",
+  "source_sha256": "227b8b9ad366ffaf1eb339271c0545b4e2e2d35012026d6fc7ce99576a1190b0",
+  "source_relative_to_project": "02-solucao-integrada/app/backend/providers/vision.py",
+  "frozen_source": "fontes/vision.py",
+  "model_sha256": "91dd7de7a110c61314ea19a958fcc85c7b3461cc6d60d87fefc08b41ac6e32c5",
+  "model_relative_to_project": "03-disciplinas/visao-computacional/modelos/best.onnx",
+  "original_inputs_unchanged": true,
+  "python": "3.13.11 (tags/v3.13.11:6278944, Dec  5 2025, 16:26:58) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 151 Stepping 5, GenuineIntel",
+  "logical_cpu_count": 12,
+  "dependencies": {
+    "numpy": "2.2.3",
+    "Pillow": "12.3.0"
+  },
+  "opencv": "5.0.0",
+  "opencv_threads": 12,
+  "config": {
+    "image_size": 640,
+    "confidence": 0.25,
+    "labels": "pothole"
+  },
+  "measured_calls": 153,
+  "measured_runs": 27,
+  "warmup_calls": 1,
+  "uninstrumented_reference_calls": 12,
+  "warmup_wall_ms": 235.76289997436106,
+  "batch_sizes": [
+    1,
+    4,
+    12
+  ],
+  "threads": [
+    1,
+    2,
+    4
+  ],
+  "repetitions": 3,
+  "network_attempts": 0,
+  "http_executed": false,
+  "quantum_executed": false,
+  "percentile": "nearest-rank; p95=maximo para n=1,4,12",
+  "aggregation": "media das metricas de tres repeticoes; nao e percentil agrupado",
+  "lock_instrumentation": "Proxy usa a mesma Lock original; mede espera/posse com perf_counter e threadlocal. Tem overhead nao subtraido.",
+  "checks": [
+    "153 chamadas e 27 lotes",
+    "deteccoes identicas a referencia serial sem instrumentacao",
+    "mode=model e uma entrada na Lock por chamada",
+    "fontes/pesos/imagens originais imutaveis",
+    "resposta=espera_harness+servico",
+    "nenhuma rede"
+  ],
+  "limits": [
+    "Demanda artificial em lotes, nao usuarios ou taxa de chegada controlada",
+    "Espera no executor separada da espera pela Lock real do adapter",
+    "Sem HTTP, LLM ou filas do servidor de producao",
+    "12 imagens externas; independencia do treino nao auditada; nao avalia acuracia",
+    "Tres repeticoes e maquina compartilhada; sem inferencia estatistica",
+    "Threads compartilham uma instancia de rede; nao equivalem a replicas em processos/GPU",
+    "Nao mede custo de decidir alocacao nem demonstra necessidade/ganho quantico"
+  ],
+  "output_sha256": {
+    "chamadas.csv": "57f9d5d113bb6ceb2cb4774b450dc7c3dd7e7e170b8e1e74a06f911f3d3601c8",
+    "execucoes.csv": "0f316d92946a1ea1d34b4c0b795c3a07b69744d4ac8121d3af63c41542c65ae5",
+    "resumo.csv": "54afdbb3ec27e6ba5955eae4df7f4c34b4aee64fb0a3c709f9e691c8f9789de3",
+    "entradas.json": "975cc5d4359f35f15a603b19d3309e532da70f05ea33f91bfcfb49bb59f55606",
+    "referencia-serial.json": "466e067e917f866f68d386af507e7e8f0e777379cf803958f31ea23272a1a59d"
+  }
+}

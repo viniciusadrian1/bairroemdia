@@ -1,0 +1,24 @@
+{
+  "antes_sintetico": "Documento fictício. Maria Silva relatou um buraco. CPF: 123.456.789-09. E-mail: maria.sintetica@example.org. Telefone: (11) 99999-1234. A Lei Maria da Penha e a Fiocruz são exceções institucionais.",
+  "depois": "Documento fictício. [NOME] relatou um buraco. CPF: [CPF]. E-mail: [EMAIL]. Telefone: [TELEFONE]. A Lei Maria da Penha e a Fiocruz são exceções institucionais.",
+  "entra_nos_corpus": false,
+  "excecoes": [
+    "Agência Nacional de Proteção de Dados",
+    "Autoridade Nacional de Proteção de Dados",
+    "Brasil",
+    "Congresso Nacional",
+    "Constituição Federal",
+    "Câmara dos Deputados",
+    "Defensoria Pública",
+    "Fiocruz",
+    "Lei Maria da Penha",
+    "Ministério Público",
+    "Poder Executivo",
+    "Poder Judiciário",
+    "Presidenta da República",
+    "Presidente da República",
+    "Senado Federal",
+    "União"
+  ],
+  "limitacao": "NER e regex podem falhar; mascaramento sem mapa não prova anonimização irreversível de texto livre. Revisão humana ainda necessária."
+}

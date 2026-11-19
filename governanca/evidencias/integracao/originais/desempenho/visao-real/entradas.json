@@ -1,0 +1,74 @@
+[
+  {
+    "image_id": "0004_jpg.rf.f92ab952cd8544f887caf35fcccbcd10.jpg",
+    "relative_to_project": "03-disciplinas/visao-computacional/dados/amostra_publica/test/images/0004_jpg.rf.f92ab952cd8544f887caf35fcccbcd10.jpg",
+    "sha256": "9ee2b6a63c30be888a60ae94adfbb998a9cce32eabec19f80d0d6061e8836742",
+    "bytes": 58508
+  },
+  {
+    "image_id": "0040_jpg.rf.ce9dde51c6f4e3fdfb4ad43b0ab1a623.jpg",
+    "relative_to_project": "03-disciplinas/visao-computacional/dados/amostra_publica/test/images/0040_jpg.rf.ce9dde51c6f4e3fdfb4ad43b0ab1a623.jpg",
+    "sha256": "dfa8c906c7d2c308ca11e86efc0ad1da328792440d7c92ac48bb7e588cfebf53",
+    "bytes": 70483
+  },
+  {
+    "image_id": "0041_jpg.rf.1f8a699096c7118149354819e27b8018.jpg",
+    "relative_to_project": "03-disciplinas/visao-computacional/dados/amostra_publica/test/images/0041_jpg.rf.1f8a699096c7118149354819e27b8018.jpg",
+    "sha256": "115b215cd85caf77e73919247215d24dbf1b7f85ad2a65127565dbce39769a24",
+    "bytes": 87443
+  },
+  {
+    "image_id": "0081_jpg.rf.d1735a9bb243cb526d9e3e094531c94b.jpg",
+    "relative_to_project": "03-disciplinas/visao-computacional/dados/amostra_publica/test/images/0081_jpg.rf.d1735a9bb243cb526d9e3e094531c94b.jpg",
+    "sha256": "fb232f1fbba5ccee431da3c41ebdb433a875369e1d36521993bcd168caa37fb6",
+    "bytes": 59028
+  },
+  {
+    "image_id": "0096_jpg.rf.de125945c49ee744d62c17da76d4d68c.jpg",
+    "relative_to_project": "03-disciplinas/visao-computacional/dados/amostra_publica/test/images/0096_jpg.rf.de125945c49ee744d62c17da76d4d68c.jpg",
+    "sha256": "ff0aeaee2e4d25a8b63bcf71da14c88551f7cf694040da9aece68136535410cb",
+    "bytes": 73216
+  },
+  {
+    "image_id": "0107_jpg.rf.b36504f4b2e1ec9ff8cebacf8ab4c255.jpg",
+    "relative_to_project": "03-disciplinas/visao-computacional/dados/amostra_publica/test/images/0107_jpg.rf.b36504f4b2e1ec9ff8cebacf8ab4c255.jpg",
+    "sha256": "0a9841df3d4d084bf0b0f61813bd599db4f5ebf991008db3da14090728e34919",
+    "bytes": 105220
+  },
+  {
+    "image_id": "0118_jpg.rf.fe3852eb5521e8919a668ba3a9207f8d.jpg",
+    "relative_to_project": "03-disciplinas/visao-computacional/dados/amostra_publica/test/images/0118_jpg.rf.fe3852eb5521e8919a668ba3a9207f8d.jpg",
+    "sha256": "be224061fcfe818663d750fd9345a4439d0884040fbd92f1b701d5bacc495d95",
+    "bytes": 80199
+  },
+  {
+    "image_id": "0129_jpg.rf.ba3c9ced9c7139a017f2b8a136c641f7.jpg",
+    "relative_to_project": "03-disciplinas/visao-computacional/dados/amostra_publica/test/images/0129_jpg.rf.ba3c9ced9c7139a017f2b8a136c641f7.jpg",
+    "sha256": "2a4ac1c3e9bd4950bd04a0bf54c7cef9b6e7ee2b0eadc6c01bc17729bb8864d3",
+    "bytes": 62297
+  },
+  {
+    "image_id": "0148_jpg.rf.878d22109d19b7062b708cdf0301d3ce.jpg",
+    "relative_to_project": "03-disciplinas/visao-computacional/dados/amostra_publica/test/images/0148_jpg.rf.878d22109d19b7062b708cdf0301d3ce.jpg",
+    "sha256": "9995e7c6be7bce33a9c53f142124895185861be7292e5a1c588ffbcfdbe1fff8",
+    "bytes": 55592
+  },
+  {
+    "image_id": "0151_jpg.rf.8530ac502a1dbc4c2b732e222c2a1d9b.jpg",
+    "relative_to_project": "03-disciplinas/visao-computacional/dados/amostra_publica/test/images/0151_jpg.rf.8530ac502a1dbc4c2b732e222c2a1d9b.jpg",
+    "sha256": "f2da3a7977d3f1d290f5abe2554d20957b5138f23354df5bbe79c658eeb4bd11",
+    "bytes": 57239
+  },
+  {
+    "image_id": "0162_jpg.rf.ed0e4831f8e4443c70192b1771207169.jpg",
+    "relative_to_project": "03-disciplinas/visao-computacional/dados/amostra_publica/test/images/0162_jpg.rf.ed0e4831f8e4443c70192b1771207169.jpg",
+    "sha256": "773b09430b0fd4ee12bc26b03c9ec49ea8e526035a57c408c155e1a2435f5197",
+    "bytes": 89847
+  },
+  {
+    "image_id": "0166_jpg.rf.c4ca9745b928027131937814c34d76e6.jpg",
+    "relative_to_project": "03-disciplinas/visao-computacional/dados/amostra_publica/test/images/0166_jpg.rf.c4ca9745b928027131937814c34d76e6.jpg",
+    "sha256": "3c4e022e8021a57e9a06a54726a1b3735fdb9b0adb4343072ed78dbc091b1737",
+    "bytes": 58912
+  }
+]

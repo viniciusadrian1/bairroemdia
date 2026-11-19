@@ -1,0 +1,35 @@
+{
+  "status": "passed",
+  "started_at_utc": "2026-11-11T02:33:32.330702+00:00",
+  "finished_at_utc": "2026-11-11T02:33:40.019567+00:00",
+  "base_url": "http://127.0.0.1:8000",
+  "health_observed": {
+    "status": "ok",
+    "llm_mode": "ollama",
+    "vision_mode": "configured"
+  },
+  "script_sha256": "57887706382408307b7ffc22127f3f24767b4ca7307d5396eea80038cb348fbb",
+  "environment": "Windows-11-10.0.26200-SP0",
+  "python": "3.13.11",
+  "measured_calls": 51,
+  "measured_runs": 9,
+  "warmup_calls": 1,
+  "endpoint": "POST /vision",
+  "writes_reports": false,
+  "evidence_kind": "real_local_http_vision_controlled_batch",
+  "server_source_hash_exported": false,
+  "server_model_hash_exported": false,
+  "limits": [
+    "Lotes artificiais e 4 threads de cliente; nao sao usuarios reais ou taxa aberta",
+    "Espera no cliente nao e fila do servidor; tempo HTTP inclui transporte/servidor",
+    "latency_ms do adapter inclui espera interna; nao isola inferencia",
+    "Servidor preexistente compartilhado; health nao comprova versao/hash carregados",
+    "Tres repeticoes descritivas; nenhuma inferencia estatistica ou vantagem quantica"
+  ],
+  "output_sha256": {
+    "chamadas.csv": "d729a5c6704ed2dff2e1957d095165f110d9611b01582c22f6a99eb2f8da8e87",
+    "entradas.json": "0662fae31bbef9100f539e168358b4bfbe8e89b8a633f69827ba6a67b17a743d",
+    "execucoes.csv": "a400e227667a30a0da0174141636dcf84bedea5613627390eea14e4fff6842ea",
+    "resumo.csv": "f71b9757751acae287ed1a2620d492efc73147f4a30c6f77a09d8d9b9bf090b6"
+  }
+}

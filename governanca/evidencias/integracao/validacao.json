@@ -1,0 +1,66 @@
+{
+  "status": "passed",
+  "scope": "Recalculation of historical records; no new inference or human evaluation",
+  "original_files_sha256_verified": 58,
+  "visao": {
+    "images": 12,
+    "reference_boxes": 27,
+    "tp": 12,
+    "fp": 13,
+    "fn": 15,
+    "precision": 0.48,
+    "recall": 0.4444444444444444
+  },
+  "nlp": {
+    "texto": 125,
+    "qa": 102,
+    "chat": 30,
+    "teste": 20,
+    "exact_test_questions_in_training": 0,
+    "token_check": "recorded metadata only; tokenizer not rerun",
+    "human_review": "PENDENTE"
+  },
+  "capacidade": {
+    "runs": 6,
+    "simulated_seconds": {
+      "2": 180.0350009765625,
+      "4": 90.06900097656249
+    },
+    "reduction_percent": 49.9713941800195,
+    "ratio": 1.9988564214608164
+  },
+  "desempenho": {
+    "inferences": 153,
+    "batches": 27,
+    "batch_12_mean_lock_wait_ms": {
+      "1": 0.0023361030293421615,
+      "4": 187.12832777237054
+    },
+    "http_successes": 51
+  },
+  "assistente": {
+    "cases": 13,
+    "model": "qwen2.5:3b",
+    "semantic_quality": "not established by this checker"
+  },
+  "som": {
+    "exploratory_examples": [
+      {
+        "expected": "furadeira",
+        "predicted": "obra_ferramentas",
+        "matches": false
+      },
+      {
+        "expected": "obra_ferramentas",
+        "predicted": "obra_ferramentas",
+        "matches": true
+      },
+      {
+        "expected": "musica",
+        "predicted": "musica",
+        "matches": true
+      }
+    ],
+    "note": "Not a general accuracy estimate; no decibel measurement"
+  }
+}

@@ -1,0 +1,2729 @@
+[
+  {
+    "image": "0004_jpg.rf.f92ab952cd8544f887caf35fcccbcd10.jpg",
+    "ground_truth_count": 2,
+    "visible_detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.910094,
+        "bbox": [
+          213.38,
+          433.81,
+          374.56,
+          554.03
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.766789,
+        "bbox": [
+          481.28,
+          356.61,
+          527.9,
+          380.3
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.735501,
+        "bbox": [
+          3.66,
+          0.0,
+          432.9,
+          78.2
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.377275,
+        "bbox": [
+          432.17,
+          390.48,
+          478.1,
+          417.57
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.25631,
+        "bbox": [
+          260.85,
+          0.0,
+          640.0,
+          112.15
+        ]
+      }
+    ],
+    "mode": "model",
+    "detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.910094,
+        "bbox": [
+          213.38,
+          433.81,
+          374.56,
+          554.03
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.766789,
+        "bbox": [
+          481.28,
+          356.61,
+          527.9,
+          380.3
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.735501,
+        "bbox": [
+          3.66,
+          0.0,
+          432.9,
+          78.2
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.377275,
+        "bbox": [
+          432.17,
+          390.48,
+          478.1,
+          417.57
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.25631,
+        "bbox": [
+          260.85,
+          0.0,
+          640.0,
+          112.15
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.005941,
+        "bbox": [
+          0.27,
+          0.76,
+          113.22,
+          53.43
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.003063,
+        "bbox": [
+          431.57,
+          385.55,
+          494.08,
+          436.67
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.002813,
+        "bbox": [
+          100.95,
+          565.0,
+          130.68,
+          596.09
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001885,
+        "bbox": [
+          97.69,
+          541.55,
+          135.27,
+          599.11
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001881,
+        "bbox": [
+          0.0,
+          0.0,
+          197.11,
+          88.93
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001749,
+        "bbox": [
+          459.69,
+          1.41,
+          640.0,
+          139.65
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001299,
+        "bbox": [
+          0.06,
+          0.0,
+          51.91,
+          41.34
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001197,
+        "bbox": [
+          0.41,
+          332.98,
+          60.98,
+          355.17
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001075,
+        "bbox": [
+          0.17,
+          446.03,
+          29.06,
+          509.35
+        ]
+      }
+    ],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 393.732,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  },
+  {
+    "image": "0040_jpg.rf.ce9dde51c6f4e3fdfb4ad43b0ab1a623.jpg",
+    "ground_truth_count": 1,
+    "visible_detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.936856,
+        "bbox": [
+          142.07,
+          446.68,
+          204.26,
+          495.11
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.636165,
+        "bbox": [
+          443.64,
+          430.12,
+          640.0,
+          524.71
+        ]
+      }
+    ],
+    "mode": "model",
+    "detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.936856,
+        "bbox": [
+          142.07,
+          446.68,
+          204.26,
+          495.11
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.636165,
+        "bbox": [
+          443.64,
+          430.12,
+          640.0,
+          524.71
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.054368,
+        "bbox": [
+          499.33,
+          349.47,
+          640.0,
+          399.81
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.046401,
+        "bbox": [
+          34.52,
+          109.81,
+          305.19,
+          163.16
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.040721,
+        "bbox": [
+          376.46,
+          558.92,
+          638.33,
+          639.56
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.03592,
+        "bbox": [
+          289.57,
+          155.67,
+          452.24,
+          178.47
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.035169,
+        "bbox": [
+          0.03,
+          379.81,
+          74.43,
+          461.32
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.027118,
+        "bbox": [
+          378.69,
+          132.36,
+          640.0,
+          186.15
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.01153,
+        "bbox": [
+          179.31,
+          2.67,
+          640.0,
+          128.54
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.010307,
+        "bbox": [
+          421.58,
+          595.56,
+          638.66,
+          639.88
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.00951,
+        "bbox": [
+          207.29,
+          149.69,
+          374.19,
+          176.69
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.008211,
+        "bbox": [
+          133.79,
+          143.13,
+          292.62,
+          164.93
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.007053,
+        "bbox": [
+          433.04,
+          610.24,
+          545.6,
+          640.0
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.006476,
+        "bbox": [
+          522.79,
+          603.01,
+          636.88,
+          640.0
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.006337,
+        "bbox": [
+          571.72,
+          615.28,
+          640.0,
+          639.73
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.005877,
+        "bbox": [
+          0.0,
+          0.66,
+          509.65,
+          106.16
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.005842,
+        "bbox": [
+          446.32,
+          412.07,
+          640.0,
+          639.11
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.005155,
+        "bbox": [
+          485.9,
+          162.97,
+          635.28,
+          195.06
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.004478,
+        "bbox": [
+          0.22,
+          356.92,
+          77.73,
+          576.45
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.003682,
+        "bbox": [
+          126.07,
+          112.08,
+          398.4,
+          172.63
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.00311,
+        "bbox": [
+          606.51,
+          359.28,
+          640.0,
+          428.75
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.002649,
+        "bbox": [
+          128.0,
+          110.17,
+          292.51,
+          147.95
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001759,
+        "bbox": [
+          32.66,
+          132.94,
+          197.7,
+          162.2
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001615,
+        "bbox": [
+          455.68,
+          564.31,
+          523.83,
+          622.28
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001401,
+        "bbox": [
+          436.48,
+          577.2,
+          551.09,
+          640.0
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001189,
+        "bbox": [
+          20.85,
+          0.0,
+          579.53,
+          239.33
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001166,
+        "bbox": [
+          37.04,
+          123.13,
+          187.42,
+          150.93
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001116,
+        "bbox": [
+          417.81,
+          557.7,
+          500.8,
+          636.84
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001115,
+        "bbox": [
+          362.3,
+          599.28,
+          423.61,
+          640.0
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001058,
+        "bbox": [
+          35.64,
+          627.57,
+          200.67,
+          640.0
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001005,
+        "bbox": [
+          572.61,
+          582.4,
+          640.0,
+          640.0
+        ]
+      }
+    ],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 95.263,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  },
+  {
+    "image": "0041_jpg.rf.1f8a699096c7118149354819e27b8018.jpg",
+    "ground_truth_count": 3,
+    "visible_detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.837577,
+        "bbox": [
+          264.62,
+          313.34,
+          359.18,
+          356.29
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.69869,
+        "bbox": [
+          246.73,
+          0.0,
+          640.0,
+          98.27
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.670445,
+        "bbox": [
+          4.67,
+          496.28,
+          228.62,
+          637.55
+        ]
+      }
+    ],
+    "mode": "model",
+    "detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.837577,
+        "bbox": [
+          264.62,
+          313.34,
+          359.18,
+          356.29
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.69869,
+        "bbox": [
+          246.73,
+          0.0,
+          640.0,
+          98.27
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.670445,
+        "bbox": [
+          4.67,
+          496.28,
+          228.62,
+          637.55
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.171632,
+        "bbox": [
+          429.06,
+          288.15,
+          617.31,
+          347.9
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.09455,
+        "bbox": [
+          72.4,
+          49.98,
+          210.34,
+          118.78
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.036267,
+        "bbox": [
+          464.26,
+          507.61,
+          519.77,
+          571.95
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.02898,
+        "bbox": [
+          219.88,
+          303.41,
+          640.0,
+          640.0
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.026221,
+        "bbox": [
+          273.17,
+          235.47,
+          352.4,
+          246.7
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.016623,
+        "bbox": [
+          0.0,
+          333.37,
+          15.45,
+          377.11
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.014804,
+        "bbox": [
+          234.26,
+          390.96,
+          450.55,
+          479.96
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.008502,
+        "bbox": [
+          0.0,
+          414.13,
+          18.75,
+          455.03
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.008004,
+        "bbox": [
+          0.0,
+          401.88,
+          15.98,
+          432.85
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.006482,
+        "bbox": [
+          409.24,
+          296.62,
+          546.66,
+          369.59
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.005623,
+        "bbox": [
+          1.8,
+          481.53,
+          470.23,
+          640.0
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.004511,
+        "bbox": [
+          232.4,
+          242.22,
+          289.64,
+          256.11
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.004348,
+        "bbox": [
+          253.25,
+          300.04,
+          555.32,
+          392.74
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.003688,
+        "bbox": [
+          565.22,
+          0.71,
+          639.5,
+          40.35
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.003286,
+        "bbox": [
+          403.1,
+          330.11,
+          546.65,
+          403.43
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.002874,
+        "bbox": [
+          237.19,
+          414.57,
+          371.3,
+          513.44
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.002648,
+        "bbox": [
+          305.47,
+          619.94,
+          492.01,
+          640.0
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.002258,
+        "bbox": [
+          23.0,
+          0.84,
+          385.08,
+          60.27
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.002146,
+        "bbox": [
+          0.32,
+          321.01,
+          19.53,
+          400.4
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.00201,
+        "bbox": [
+          30.15,
+          0.39,
+          249.51,
+          30.97
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001837,
+        "bbox": [
+          266.01,
+          354.55,
+          360.98,
+          401.55
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001732,
+        "bbox": [
+          0.0,
+          560.41,
+          73.81,
+          639.85
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001478,
+        "bbox": [
+          29.34,
+          569.33,
+          524.52,
+          640.0
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001418,
+        "bbox": [
+          0.22,
+          527.03,
+          117.15,
+          639.96
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001356,
+        "bbox": [
+          0.0,
+          401.01,
+          34.2,
+          474.92
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001338,
+        "bbox": [
+          0.0,
+          321.83,
+          57.81,
+          386.33
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001241,
+        "bbox": [
+          458.1,
+          509.81,
+          639.05,
+          630.09
+        ]
+      }
+    ],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 95.295,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  },
+  {
+    "image": "0081_jpg.rf.d1735a9bb243cb526d9e3e094531c94b.jpg",
+    "ground_truth_count": 1,
+    "visible_detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.295781,
+        "bbox": [
+          253.61,
+          477.57,
+          383.87,
+          596.13
+        ]
+      }
+    ],
+    "mode": "model",
+    "detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.295781,
+        "bbox": [
+          253.61,
+          477.57,
+          383.87,
+          596.13
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.156997,
+        "bbox": [
+          551.15,
+          397.73,
+          626.85,
+          548.36
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.027222,
+        "bbox": [
+          250.21,
+          469.63,
+          597.2,
+          606.74
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.017383,
+        "bbox": [
+          475.63,
+          446.66,
+          511.53,
+          473.71
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.007787,
+        "bbox": [
+          598.74,
+          5.36,
+          640.0,
+          18.86
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.006248,
+        "bbox": [
+          387.78,
+          93.68,
+          530.33,
+          121.63
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.00279,
+        "bbox": [
+          96.79,
+          57.08,
+          149.11,
+          98.71
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001842,
+        "bbox": [
+          167.69,
+          238.64,
+          188.44,
+          249.36
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001488,
+        "bbox": [
+          627.38,
+          107.55,
+          639.86,
+          121.66
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001363,
+        "bbox": [
+          553.51,
+          410.19,
+          613.38,
+          484.97
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001188,
+        "bbox": [
+          311.21,
+          609.98,
+          398.6,
+          639.8
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001155,
+        "bbox": [
+          0.0,
+          1.73,
+          310.64,
+          57.34
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001099,
+        "bbox": [
+          623.09,
+          336.64,
+          640.0,
+          388.78
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001084,
+        "bbox": [
+          15.67,
+          615.18,
+          148.87,
+          640.0
+        ]
+      }
+    ],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 116.871,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  },
+  {
+    "image": "0096_jpg.rf.de125945c49ee744d62c17da76d4d68c.jpg",
+    "ground_truth_count": 6,
+    "visible_detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.777529,
+        "bbox": [
+          70.0,
+          259.65,
+          154.06,
+          285.94
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.743774,
+        "bbox": [
+          403.12,
+          319.8,
+          497.16,
+          383.26
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.620625,
+        "bbox": [
+          513.04,
+          388.57,
+          594.93,
+          449.83
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.260729,
+        "bbox": [
+          7.81,
+          456.79,
+          365.72,
+          639.7
+        ]
+      }
+    ],
+    "mode": "model",
+    "detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.777529,
+        "bbox": [
+          70.0,
+          259.65,
+          154.06,
+          285.94
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.743774,
+        "bbox": [
+          403.12,
+          319.8,
+          497.16,
+          383.26
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.620625,
+        "bbox": [
+          513.04,
+          388.57,
+          594.93,
+          449.83
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.260729,
+        "bbox": [
+          7.81,
+          456.79,
+          365.72,
+          639.7
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.175483,
+        "bbox": [
+          417.12,
+          291.81,
+          484.51,
+          312.41
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.168458,
+        "bbox": [
+          0.0,
+          295.49,
+          44.63,
+          356.55
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.032063,
+        "bbox": [
+          341.82,
+          239.16,
+          427.29,
+          258.38
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.024004,
+        "bbox": [
+          0.17,
+          293.57,
+          68.96,
+          413.01
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.011077,
+        "bbox": [
+          13.32,
+          461.08,
+          112.52,
+          531.39
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.009933,
+        "bbox": [
+          88.37,
+          222.77,
+          121.71,
+          230.33
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.005681,
+        "bbox": [
+          0.05,
+          4.69,
+          17.59,
+          23.23
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.005141,
+        "bbox": [
+          417.77,
+          295.14,
+          449.03,
+          312.72
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.004824,
+        "bbox": [
+          0.0,
+          283.7,
+          140.51,
+          419.69
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.002871,
+        "bbox": [
+          376.33,
+          365.06,
+          391.76,
+          376.56
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.002732,
+        "bbox": [
+          184.69,
+          56.38,
+          214.02,
+          68.26
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.002709,
+        "bbox": [
+          0.0,
+          456.68,
+          10.39,
+          478.78
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.002679,
+        "bbox": [
+          0.14,
+          298.43,
+          44.75,
+          325.23
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.002119,
+        "bbox": [
+          0.0,
+          198.81,
+          30.0,
+          226.51
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.00167,
+        "bbox": [
+          231.69,
+          207.05,
+          270.17,
+          240.18
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001479,
+        "bbox": [
+          630.39,
+          322.82,
+          640.0,
+          341.95
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001474,
+        "bbox": [
+          0.02,
+          401.67,
+          23.06,
+          455.54
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001331,
+        "bbox": [
+          0.0,
+          0.0,
+          13.52,
+          9.33
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001305,
+        "bbox": [
+          119.52,
+          222.05,
+          172.19,
+          232.59
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001036,
+        "bbox": [
+          0.0,
+          380.61,
+          13.26,
+          418.87
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001003,
+        "bbox": [
+          0.0,
+          403.87,
+          57.37,
+          447.7
+        ]
+      }
+    ],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 94.719,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  },
+  {
+    "image": "0107_jpg.rf.b36504f4b2e1ec9ff8cebacf8ab4c255.jpg",
+    "ground_truth_count": 1,
+    "visible_detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.687817,
+        "bbox": [
+          0.9,
+          0.0,
+          233.14,
+          373.96
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.536542,
+        "bbox": [
+          327.02,
+          0.0,
+          640.0,
+          369.12
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.354681,
+        "bbox": [
+          0.0,
+          281.3,
+          525.05,
+          640.0
+        ]
+      }
+    ],
+    "mode": "model",
+    "detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.687817,
+        "bbox": [
+          0.9,
+          0.0,
+          233.14,
+          373.96
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.536542,
+        "bbox": [
+          327.02,
+          0.0,
+          640.0,
+          369.12
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.354681,
+        "bbox": [
+          0.0,
+          281.3,
+          525.05,
+          640.0
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.137766,
+        "bbox": [
+          85.63,
+          116.49,
+          460.36,
+          531.6
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.119497,
+        "bbox": [
+          317.38,
+          108.57,
+          640.0,
+          565.99
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.018513,
+        "bbox": [
+          580.7,
+          2.38,
+          640.0,
+          121.13
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.015461,
+        "bbox": [
+          510.2,
+          0.0,
+          640.0,
+          353.46
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.004085,
+        "bbox": [
+          497.87,
+          602.75,
+          639.49,
+          640.0
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.002907,
+        "bbox": [
+          0.0,
+          1.34,
+          259.15,
+          177.46
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.002825,
+        "bbox": [
+          442.87,
+          217.25,
+          640.0,
+          639.37
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001863,
+        "bbox": [
+          10.0,
+          557.99,
+          494.23,
+          639.61
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001727,
+        "bbox": [
+          0.0,
+          454.86,
+          99.95,
+          640.0
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001247,
+        "bbox": [
+          586.83,
+          107.87,
+          639.88,
+          367.87
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001245,
+        "bbox": [
+          222.33,
+          0.0,
+          506.96,
+          395.73
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001038,
+        "bbox": [
+          0.35,
+          186.54,
+          110.41,
+          456.21
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001001,
+        "bbox": [
+          574.54,
+          605.89,
+          639.45,
+          640.0
+        ]
+      }
+    ],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 99.588,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  },
+  {
+    "image": "0118_jpg.rf.fe3852eb5521e8919a668ba3a9207f8d.jpg",
+    "ground_truth_count": 2,
+    "visible_detections": [],
+    "mode": "model",
+    "detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.119892,
+        "bbox": [
+          104.94,
+          410.33,
+          245.93,
+          435.72
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.090568,
+        "bbox": [
+          503.24,
+          381.39,
+          582.76,
+          395.8
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.016083,
+        "bbox": [
+          173.09,
+          411.55,
+          263.63,
+          432.16
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.015655,
+        "bbox": [
+          558.07,
+          383.6,
+          592.88,
+          392.41
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.009394,
+        "bbox": [
+          0.39,
+          231.33,
+          89.4,
+          302.57
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.00465,
+        "bbox": [
+          210.57,
+          99.59,
+          253.04,
+          121.37
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.00398,
+        "bbox": [
+          0.0,
+          1.46,
+          296.82,
+          75.71
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.003422,
+        "bbox": [
+          102.54,
+          142.7,
+          156.41,
+          162.72
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.002916,
+        "bbox": [
+          595.16,
+          606.12,
+          640.0,
+          640.0
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.002791,
+        "bbox": [
+          391.38,
+          0.16,
+          432.91,
+          24.96
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.002344,
+        "bbox": [
+          106.35,
+          406.87,
+          265.91,
+          462.66
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001925,
+        "bbox": [
+          350.16,
+          342.71,
+          475.77,
+          356.48
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001804,
+        "bbox": [
+          0.0,
+          0.0,
+          146.25,
+          32.24
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001722,
+        "bbox": [
+          613.67,
+          620.88,
+          640.0,
+          640.0
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001702,
+        "bbox": [
+          584.89,
+          530.79,
+          640.0,
+          579.96
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001597,
+        "bbox": [
+          400.98,
+          243.74,
+          640.0,
+          313.13
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001438,
+        "bbox": [
+          311.16,
+          340.64,
+          383.23,
+          356.72
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001435,
+        "bbox": [
+          551.92,
+          622.13,
+          640.0,
+          639.97
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001384,
+        "bbox": [
+          1.5,
+          347.75,
+          48.12,
+          370.58
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001287,
+        "bbox": [
+          516.79,
+          431.11,
+          608.34,
+          464.4
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001074,
+        "bbox": [
+          22.52,
+          160.62,
+          80.13,
+          191.9
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.00107,
+        "bbox": [
+          0.33,
+          0.0,
+          45.3,
+          51.42
+        ]
+      }
+    ],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 107.901,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  },
+  {
+    "image": "0129_jpg.rf.ba3c9ced9c7139a017f2b8a136c641f7.jpg",
+    "ground_truth_count": 2,
+    "visible_detections": [],
+    "mode": "model",
+    "detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.135259,
+        "bbox": [
+          0.0,
+          239.69,
+          13.19,
+          253.39
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.050844,
+        "bbox": [
+          200.67,
+          527.51,
+          526.05,
+          639.86
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.023834,
+        "bbox": [
+          0.21,
+          254.2,
+          218.16,
+          282.77
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.012377,
+        "bbox": [
+          496.16,
+          223.51,
+          640.0,
+          309.93
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.008862,
+        "bbox": [
+          0.39,
+          0.0,
+          370.36,
+          107.79
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.003596,
+        "bbox": [
+          110.39,
+          314.21,
+          404.37,
+          376.21
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.003517,
+        "bbox": [
+          495.0,
+          279.64,
+          581.03,
+          310.39
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.002597,
+        "bbox": [
+          0.0,
+          233.6,
+          19.35,
+          252.39
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001693,
+        "bbox": [
+          2.3,
+          0.0,
+          178.2,
+          128.36
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001656,
+        "bbox": [
+          626.82,
+          186.84,
+          639.86,
+          205.05
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001583,
+        "bbox": [
+          197.36,
+          423.58,
+          576.75,
+          640.0
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001459,
+        "bbox": [
+          489.38,
+          268.86,
+          632.66,
+          314.38
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001289,
+        "bbox": [
+          454.7,
+          365.89,
+          640.0,
+          623.95
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001075,
+        "bbox": [
+          622.14,
+          193.67,
+          639.8,
+          208.63
+        ]
+      }
+    ],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 91.652,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  },
+  {
+    "image": "0148_jpg.rf.878d22109d19b7062b708cdf0301d3ce.jpg",
+    "ground_truth_count": 1,
+    "visible_detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.548559,
+        "bbox": [
+          5.23,
+          323.1,
+          286.08,
+          474.61
+        ]
+      }
+    ],
+    "mode": "model",
+    "detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.548559,
+        "bbox": [
+          5.23,
+          323.1,
+          286.08,
+          474.61
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.091005,
+        "bbox": [
+          0.58,
+          320.14,
+          304.97,
+          638.11
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.090112,
+        "bbox": [
+          0.0,
+          369.17,
+          145.76,
+          639.07
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.004151,
+        "bbox": [
+          0.0,
+          0.48,
+          150.23,
+          111.63
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.002054,
+        "bbox": [
+          447.36,
+          217.81,
+          510.72,
+          255.96
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001019,
+        "bbox": [
+          0.0,
+          0.35,
+          175.24,
+          28.26
+        ]
+      }
+    ],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 94.65,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  },
+  {
+    "image": "0151_jpg.rf.8530ac502a1dbc4c2b732e222c2a1d9b.jpg",
+    "ground_truth_count": 4,
+    "visible_detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.810521,
+        "bbox": [
+          296.27,
+          343.63,
+          338.26,
+          366.72
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.803831,
+        "bbox": [
+          234.33,
+          380.27,
+          332.34,
+          424.11
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.682887,
+        "bbox": [
+          382.62,
+          264.14,
+          406.33,
+          275.43
+        ]
+      }
+    ],
+    "mode": "model",
+    "detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.810521,
+        "bbox": [
+          296.27,
+          343.63,
+          338.26,
+          366.72
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.803831,
+        "bbox": [
+          234.33,
+          380.27,
+          332.34,
+          424.11
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.682887,
+        "bbox": [
+          382.62,
+          264.14,
+          406.33,
+          275.43
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.137871,
+        "bbox": [
+          478.38,
+          0.31,
+          639.86,
+          170.11
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.074671,
+        "bbox": [
+          328.04,
+          474.05,
+          398.88,
+          537.39
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.003545,
+        "bbox": [
+          277.41,
+          472.87,
+          321.15,
+          547.34
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.003247,
+        "bbox": [
+          323.33,
+          325.15,
+          351.63,
+          341.73
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.002678,
+        "bbox": [
+          524.54,
+          302.43,
+          562.4,
+          323.43
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.002028,
+        "bbox": [
+          461.57,
+          232.51,
+          640.0,
+          559.17
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001927,
+        "bbox": [
+          572.49,
+          333.37,
+          593.65,
+          346.88
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001914,
+        "bbox": [
+          222.23,
+          472.22,
+          513.71,
+          538.21
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001799,
+        "bbox": [
+          593.21,
+          98.09,
+          640.0,
+          164.01
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001552,
+        "bbox": [
+          0.64,
+          30.48,
+          99.11,
+          234.1
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001151,
+        "bbox": [
+          537.95,
+          295.5,
+          593.58,
+          324.61
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001117,
+        "bbox": [
+          555.34,
+          68.78,
+          639.78,
+          162.12
+        ]
+      }
+    ],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 91.526,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  },
+  {
+    "image": "0162_jpg.rf.ed0e4831f8e4443c70192b1771207169.jpg",
+    "ground_truth_count": 2,
+    "visible_detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.839544,
+        "bbox": [
+          220.73,
+          220.34,
+          389.89,
+          280.04
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.601555,
+        "bbox": [
+          117.84,
+          402.15,
+          593.34,
+          569.73
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.371698,
+        "bbox": [
+          480.24,
+          240.59,
+          529.7,
+          262.7
+        ]
+      }
+    ],
+    "mode": "model",
+    "detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.839544,
+        "bbox": [
+          220.73,
+          220.34,
+          389.89,
+          280.04
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.601555,
+        "bbox": [
+          117.84,
+          402.15,
+          593.34,
+          569.73
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.371698,
+        "bbox": [
+          480.24,
+          240.59,
+          529.7,
+          262.7
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.037791,
+        "bbox": [
+          0.0,
+          441.52,
+          360.93,
+          565.85
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.033276,
+        "bbox": [
+          150.95,
+          391.96,
+          400.54,
+          488.88
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.003976,
+        "bbox": [
+          615.31,
+          496.61,
+          640.0,
+          600.75
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.003129,
+        "bbox": [
+          588.32,
+          491.2,
+          639.74,
+          610.04
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.002942,
+        "bbox": [
+          0.0,
+          566.41,
+          383.68,
+          639.09
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.002787,
+        "bbox": [
+          126.14,
+          0.14,
+          380.46,
+          26.64
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001887,
+        "bbox": [
+          400.61,
+          623.38,
+          522.85,
+          640.0
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001515,
+        "bbox": [
+          46.85,
+          209.53,
+          391.64,
+          285.22
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001401,
+        "bbox": [
+          0.19,
+          0.0,
+          87.89,
+          125.44
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001286,
+        "bbox": [
+          10.7,
+          609.59,
+          171.35,
+          639.92
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.00125,
+        "bbox": [
+          0.0,
+          0.0,
+          102.57,
+          40.96
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001213,
+        "bbox": [
+          0.0,
+          357.12,
+          44.64,
+          398.24
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001184,
+        "bbox": [
+          0.0,
+          272.96,
+          13.25,
+          309.63
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001132,
+        "bbox": [
+          0.09,
+          431.36,
+          135.3,
+          564.45
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001126,
+        "bbox": [
+          371.11,
+          415.86,
+          640.0,
+          640.0
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001051,
+        "bbox": [
+          233.8,
+          0.3,
+          349.5,
+          16.94
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.00105,
+        "bbox": [
+          617.23,
+          549.51,
+          640.0,
+          624.46
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001026,
+        "bbox": [
+          143.09,
+          568.1,
+          599.0,
+          640.0
+        ]
+      }
+    ],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 103.95,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  },
+  {
+    "image": "0166_jpg.rf.c4ca9745b928027131937814c34d76e6.jpg",
+    "ground_truth_count": 2,
+    "visible_detections": [],
+    "mode": "model",
+    "detections": [
+      {
+        "label": "buraco",
+        "confidence": 0.089395,
+        "bbox": [
+          163.21,
+          332.92,
+          567.88,
+          639.54
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.067972,
+        "bbox": [
+          0.0,
+          246.43,
+          190.54,
+          321.64
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.058229,
+        "bbox": [
+          0.0,
+          335.93,
+          92.07,
+          430.71
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.048074,
+        "bbox": [
+          164.31,
+          335.94,
+          447.39,
+          438.59
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.017999,
+        "bbox": [
+          413.27,
+          504.42,
+          472.07,
+          595.34
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.009378,
+        "bbox": [
+          0.16,
+          212.5,
+          64.82,
+          302.69
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.004673,
+        "bbox": [
+          0.0,
+          0.0,
+          55.31,
+          46.19
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.003854,
+        "bbox": [
+          0.0,
+          324.33,
+          54.95,
+          388.11
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.003461,
+        "bbox": [
+          0.15,
+          0.0,
+          70.5,
+          186.77
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.003003,
+        "bbox": [
+          466.2,
+          65.82,
+          509.03,
+          96.09
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.00295,
+        "bbox": [
+          319.84,
+          0.0,
+          439.73,
+          34.38
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001628,
+        "bbox": [
+          0.44,
+          115.81,
+          59.53,
+          319.35
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001502,
+        "bbox": [
+          476.82,
+          0.13,
+          640.0,
+          29.89
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001442,
+        "bbox": [
+          0.06,
+          228.61,
+          93.69,
+          337.43
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.00144,
+        "bbox": [
+          630.87,
+          143.97,
+          640.0,
+          159.02
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001411,
+        "bbox": [
+          0.07,
+          405.72,
+          75.66,
+          568.61
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.00136,
+        "bbox": [
+          0.14,
+          0.0,
+          96.98,
+          29.0
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001291,
+        "bbox": [
+          511.87,
+          248.62,
+          534.8,
+          258.91
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001247,
+        "bbox": [
+          514.71,
+          92.61,
+          557.04,
+          131.31
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001029,
+        "bbox": [
+          337.09,
+          205.05,
+          433.54,
+          228.34
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001019,
+        "bbox": [
+          0.44,
+          0.0,
+          85.74,
+          77.57
+        ]
+      },
+      {
+        "label": "buraco",
+        "confidence": 0.001003,
+        "bbox": [
+          0.0,
+          2.01,
+          133.06,
+          239.67
+        ]
+      }
+    ],
+    "width": 640,
+    "height": 640,
+    "latency_ms": 88.995,
+    "warnings": [
+      "Triagem visual: confiança não comprova dano ou gravidade. Confirme a localização e revise o resultado."
+    ]
+  }
+]

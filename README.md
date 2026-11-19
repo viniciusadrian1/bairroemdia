@@ -11,7 +11,7 @@ Este repositório contém o código executável, testes, recursos usados pela ap
 - [Vídeo final no YouTube, Não Listado](https://youtu.be/kFcjvWzllZc) — aproximadamente 6min45s, com demonstração real de RPA.
 - [Índice dos materiais, requisitos e evidências](governanca/README.md).
 
-A tag `governanca-v1.2` identifica a versão organizada para entrega. Publicação no GitHub não substitui submissão no Portal acadêmico.
+A tag `governanca-v1.3` identifica a versão organizada para entrega. Publicação no GitHub não substitui submissão no Portal acadêmico.
 
 ## O que funciona
 
