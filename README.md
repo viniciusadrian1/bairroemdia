@@ -8,10 +8,10 @@ Este repositório contém o código executável, testes, recursos usados pela ap
 
 - [Relatório final em PDF](governanca/relatorio/Bairro_em_Dia_Governanca_ABNT.pdf) — 15 páginas.
 - [Relatório editável em Word](governanca/relatorio/Bairro_em_Dia_Governanca_ABNT.docx).
-- [Vídeo final no YouTube, Não Listado](https://youtu.be/kFcjvWzllZc) — aproximadamente 6min45s, com demonstração real de RPA.
+- [Vídeo final no YouTube, Não Listado](https://youtu.be/66U-OigDVys) — aproximadamente 6min45s, com navegação real na aplicação e execução do RPA.
 - [Índice dos materiais, requisitos e evidências](governanca/README.md).
 
-A tag `governanca-v1.3` identifica a versão organizada para entrega. Publicação no GitHub não substitui submissão no Portal acadêmico.
+O identificador desta revisão de entrega é `governanca-v1.4`. Publicação no GitHub não substitui submissão no Portal acadêmico.
 
 ## O que funciona
 

@@ -1,0 +1,90 @@
+{
+  "running": false,
+  "run": 3,
+  "events": [
+    {
+      "time": "00:12:52",
+      "text": "EXECUTANDO robot.py • API local • lote sintético"
+    },
+    {
+      "time": "00:12:52",
+      "text": "IMPORTANDO  Demo RPA movimento • 04"
+    },
+    {
+      "time": "00:12:52",
+      "text": "ENTRADA RECUSADA  HTTP 422"
+    },
+    {
+      "time": "00:12:52",
+      "text": "EMITINDO PROTOCOLO  6b0740ee"
+    },
+    {
+      "time": "00:12:52",
+      "text": "PROTOCOLO  SIM-6B0740EE-F573-4A0B-AE38-D7A83EC0A1B1"
+    },
+    {
+      "time": "00:12:52",
+      "text": "CONCLUÍDO  • importados: 0 • já importados: 3"
+    },
+    {
+      "time": "00:12:52",
+      "text": "PROTOCOLOS NESTA EXECUÇÃO: 1"
+    }
+  ],
+  "result": [
+    {
+      "at_utc": "2026-11-19T03:12:52Z",
+      "job": "demo-rpa-01",
+      "outcome": "skipped",
+      "detail": "Entrada já importada; checkpoint local"
+    },
+    {
+      "at_utc": "2026-11-19T03:12:52Z",
+      "job": "demo-rpa-02",
+      "outcome": "skipped",
+      "detail": "Entrada já importada; checkpoint local"
+    },
+    {
+      "at_utc": "2026-11-19T03:12:52Z",
+      "job": "demo-rpa-03",
+      "outcome": "skipped",
+      "detail": "Entrada já importada; checkpoint local"
+    },
+    {
+      "at_utc": "2026-11-19T03:12:52Z",
+      "job": "demo-rpa-erro",
+      "outcome": "failed",
+      "detail": "HTTPError"
+    },
+    {
+      "at_utc": "2026-11-19T03:12:52Z",
+      "job": "6b0740ee-f573-4a0b-ae38-d7a83ec0a1b1",
+      "outcome": "protocolled",
+      "detail": "SIM-6B0740EE-F573-4A0B-AE38-D7A83EC0A1B1"
+    }
+  ],
+  "reports": [
+    {
+      "id": "9b795d7b-f4f6-4864-879d-2159c1bfc400",
+      "status": "pending_review",
+      "protocol": null,
+      "neighborhood": "Demo RPA movimento • 03"
+    },
+    {
+      "id": "8030f6fe-49f9-4c37-b638-d7f927dcc664",
+      "status": "pending_review",
+      "protocol": null,
+      "neighborhood": "Demo RPA movimento • 02"
+    },
+    {
+      "id": "6b0740ee-f573-4a0b-ae38-d7a83ec0a1b1",
+      "status": "protocolled",
+      "protocol": "SIM-6B0740EE-F573-4A0B-AE38-D7A83EC0A1B1",
+      "neighborhood": "Demo RPA movimento • 01"
+    }
+  ],
+  "error": null,
+  "duration_seconds": 0.03063821792602539,
+  "at_utc": "2026-11-19T03:12:52.130703+00:00",
+  "approval": "No approval performed by monitor or robot. UI demonstration is agent-assisted, not a human study."
+}

@@ -1,0 +1,5 @@
+job_id,description,neighborhood,category,latitude,longitude,location_confirmed
+demo-rpa-01,Demonstração sintética para vídeo RPA. Campainha na entrada de demonstração,Demo RPA movimento • 01,sound,-23.55,-46.63,true
+demo-rpa-02,Demonstração sintética para vídeo RPA. Batida na porta em cenário sintético,Demo RPA movimento • 02,sound,-23.54,-46.64,true
+demo-rpa-03,Demonstração sintética para vídeo RPA. Som ambiente para acompanhamento de teste,Demo RPA movimento • 03,sound,-23.53,-46.65,true
+demo-rpa-erro,Demonstração sintética para vídeo RPA. Registro sintético com latitude inválida,Demo RPA movimento • 04,sound,999,-46.65,true

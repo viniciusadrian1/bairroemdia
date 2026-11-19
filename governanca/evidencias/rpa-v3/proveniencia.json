@@ -1,0 +1,36 @@
+{
+  "capture_local_date": "2026-11-19",
+  "records": "Original bytes preserved",
+  "files": [
+    {
+      "file": "execucao-01.json",
+      "source": "03-disciplinas/ai-rpa/evidencias/video-rpa-movimento-20261119/execucao-01.json",
+      "sha256": "499aa3205722fc2834cffb2c00b50965db234f90c785145c0f85f4c93924718f"
+    },
+    {
+      "file": "execucao-02.json",
+      "source": "03-disciplinas/ai-rpa/evidencias/video-rpa-movimento-20261119/execucao-02.json",
+      "sha256": "b8540fe57824bbcaf522e3f44f3848e062fd281d8b8a7e351fd9e0aa845ef918"
+    },
+    {
+      "file": "execucao-03.json",
+      "source": "03-disciplinas/ai-rpa/evidencias/video-rpa-movimento-20261119/execucao-03.json",
+      "sha256": "8a795dd2d42ab4ac63a96bfbce3c16ca95caeefd8bde8e675761d6e2e0d6bfe6"
+    },
+    {
+      "file": "lote-video.csv",
+      "source": "03-disciplinas/ai-rpa/evidencias/video-rpa-movimento-20261119/lote-video.csv",
+      "sha256": "aa6ca60bf1dc57ed40bde4fefad75c1e9038a86a20a41335eab44e1487d19d2d"
+    },
+    {
+      "file": "robot.jsonl",
+      "source": "03-disciplinas/ai-rpa/evidencias/video-rpa-movimento-20261119/robot.jsonl",
+      "sha256": "8d1db6b65843352f9186dfa283096fc6f18a1dd889a31ef767812e039f39256d"
+    },
+    {
+      "file": "monitor-captura.py",
+      "source": "03-disciplinas/ai-rpa/desenvolvimento/monitor_video_movimento_local.py",
+      "sha256": "4f84bd83c5e65d81f613d8d1d6c6d85fa6451f7069216d9fbc4fa8f66c68adfa"
+    }
+  ]
+}

@@ -8,3 +8,6 @@
 
 # Preserve hashes and original historical evidence bytes.
 governanca/evidencias/integracao/originais/** -text whitespace=cr-at-eol
+
+# Preserve original V3 capture evidence bytes.
+governanca/evidencias/rpa-v3/** -text whitespace=cr-at-eol

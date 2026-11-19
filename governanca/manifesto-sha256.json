@@ -1,6 +1,6 @@
 {
-  "version": "governanca-v1.3",
-  "scope": "Final Governance deliverables; manifest excludes itself. Original evidence bytes preserved; other text uses LF.",
+  "version": "governanca-v1.4",
+  "scope": "Governance deliverables, excluding this manifest; original evidence bytes preserved.",
   "files": [
     {
       "path": "evidencias/integracao/originais/assistente/avaliacao-final.json",
@@ -314,13 +314,13 @@
     },
     {
       "path": "evidencias/publicacao-video.json",
-      "bytes": 466,
-      "sha256": "97894d53fac126d0595baa7dbf4512240f0cbc66a32dec1c68d5cb70da7d972d"
+      "bytes": 446,
+      "sha256": "fd6cec9df3c21322c79b0de1b110ab0ff76a994bbd19fb81aa7225e3c88e3163"
     },
     {
       "path": "evidencias/README.md",
-      "bytes": 1905,
-      "sha256": "7bde4542442e743c61dae942f0815ff0ff05c3941e70690d1aaf8fd8aedb529b"
+      "bytes": 2294,
+      "sha256": "0786d05afdb985396a45dfc2b4d9935fc4294f86c12239e42ca2e69552bd3e0c"
     },
     {
       "path": "evidencias/rpa/execucao-01.json",
@@ -353,14 +353,64 @@
       "sha256": "f497362f54285aa2d64edd9b2a7c3ac379d6cfd12c406ddcb78e05fa85521cec"
     },
     {
+      "path": "evidencias/rpa-v3/execucao-01.json",
+      "bytes": 2665,
+      "sha256": "499aa3205722fc2834cffb2c00b50965db234f90c785145c0f85f4c93924718f"
+    },
+    {
+      "path": "evidencias/rpa-v3/execucao-02.json",
+      "bytes": 2023,
+      "sha256": "b8540fe57824bbcaf522e3f44f3848e062fd281d8b8a7e351fd9e0aa845ef918"
+    },
+    {
+      "path": "evidencias/rpa-v3/execucao-03.json",
+      "bytes": 2459,
+      "sha256": "8a795dd2d42ab4ac63a96bfbce3c16ca95caeefd8bde8e675761d6e2e0d6bfe6"
+    },
+    {
+      "path": "evidencias/rpa-v3/lote-video.csv",
+      "bytes": 670,
+      "sha256": "aa6ca60bf1dc57ed40bde4fefad75c1e9038a86a20a41335eab44e1487d19d2d"
+    },
+    {
+      "path": "evidencias/rpa-v3/monitor-captura.py",
+      "bytes": 9153,
+      "sha256": "4f84bd83c5e65d81f613d8d1d6c6d85fa6451f7069216d9fbc4fa8f66c68adfa"
+    },
+    {
+      "path": "evidencias/rpa-v3/proveniencia.json",
+      "bytes": 1483,
+      "sha256": "5b2fd23a843a5e7eb60c6b3723fef675f83ff8c91a366e473a69af0c25cbd960"
+    },
+    {
+      "path": "evidencias/rpa-v3/README.md",
+      "bytes": 2000,
+      "sha256": "532accc3c524a838fceb734456f68fbedff67e21e035b247dcecf1888f26aa44"
+    },
+    {
+      "path": "evidencias/rpa-v3/robot.jsonl",
+      "bytes": 1723,
+      "sha256": "8d1db6b65843352f9186dfa283096fc6f18a1dd889a31ef767812e039f39256d"
+    },
+    {
+      "path": "evidencias/rpa-v3/validacao.json",
+      "bytes": 1214,
+      "sha256": "f5a1cb1fa941f99136fc6101bda84a2294325b65bcc16d667dea5542d9b28317"
+    },
+    {
+      "path": "evidencias/rpa-v3/verificar_registros.py",
+      "bytes": 2368,
+      "sha256": "ac5bee707a90e13c6962acd9893f4fa633e4bafed82f20f44ddd647b5e12b90d"
+    },
+    {
       "path": "evidencias/validacao-documento.json",
-      "bytes": 1056,
-      "sha256": "8ed2c93ee12454bf6bb934aeac689fb8430d8ba50b4e2066f180d13d6ffc430b"
+      "bytes": 1094,
+      "sha256": "056804b6380668cb527c918cf375f598b0210b5aa7458183ee1126a12db5d5b8"
     },
     {
       "path": "evidencias/validacao-video.json",
-      "bytes": 889,
-      "sha256": "709c72e3325d2bc6f60dcf8dc0e84f8fbc2d274d1cc8494ea2fd533aba733f3b"
+      "bytes": 1038,
+      "sha256": "93107d5751992ddde35ea2e8cff3cc32611cc002fce7671c448a783b30d4548f"
     },
     {
       "path": "evidencias/verificacao-codigo.json",
@@ -369,23 +419,23 @@
     },
     {
       "path": "matriz-integracao.md",
-      "bytes": 3726,
-      "sha256": "6387694c2962e5dad1bc5e2207c3330d424749c8b1cdb2217381a6ef8fcee3a6"
+      "bytes": 3758,
+      "sha256": "a5405b1f8eb4c83b1de6f7e876097516686411d72776cf9ba40f01fc142dbcbc"
     },
     {
       "path": "README.md",
-      "bytes": 2322,
-      "sha256": "5ada6277410c23e201630df211090749d8fbe4faf43c0c994ca48e13e88e4b9a"
+      "bytes": 2331,
+      "sha256": "bb759c1e1d0ed5c67ea12589c1ff14d3ce67abf16567e446e0693d663857e029"
     },
     {
       "path": "relatorio/Bairro_em_Dia_Governanca_ABNT.docx",
-      "bytes": 56505,
-      "sha256": "4592a6b26dd9752acc95d776fe485faec813d074d5b7ee07c64814d6bb19dc65"
+      "bytes": 56538,
+      "sha256": "5a34aed624d98ae2f15806bbb365e847721e4d53b52775688a580f84bcc4d8dd"
     },
     {
       "path": "relatorio/Bairro_em_Dia_Governanca_ABNT.pdf",
-      "bytes": 210436,
-      "sha256": "5f6e78a86cf069eb6ce2c93ffc50957243f9e3aa2b7249f0ea4197bd201b9ad7"
+      "bytes": 210323,
+      "sha256": "8a027648d618c48c6121a4447980fea8852d1a648d3a7dbc79cc76422d757498"
     },
     {
       "path": "relatorio/criterios-formatacao.md",
@@ -394,13 +444,13 @@
     },
     {
       "path": "requisitos.md",
-      "bytes": 2300,
-      "sha256": "2b6972aa691ca50cb334bd1983f88d02af917accad02913e47e9dcad5dbae803"
+      "bytes": 2319,
+      "sha256": "bc764bf90a042d17d961833961c9b353a05fd7562724015f1b1369d44d096b54"
     },
     {
-      "path": "video/Bairro_em_Dia_Governanca_v2_RPA.mp4",
-      "bytes": 16859195,
-      "sha256": "ce14cf0d008b197b2425d9f4218c5516545c361b95de3f270fc34e75b7245a73"
+      "path": "video/Bairro_em_Dia_Governanca_v3_INTERATIVO.mp4",
+      "bytes": 21178563,
+      "sha256": "e144e4ac17b0c0e63f927844df6d9950a6c3edc8a722207d4209f1c32cddd126"
     }
   ]
 }

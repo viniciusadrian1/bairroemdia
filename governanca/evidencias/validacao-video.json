@@ -1,25 +1,23 @@
 {
-  "file": "Bairro_em_Dia_Governanca_v2_RPA.mp4",
+  "file": "governanca/video/Bairro_em_Dia_Governanca_v3_INTERATIVO.mp4",
   "duration_seconds": 404.5,
   "frames": 12135,
+  "fps": 30.0,
   "resolution": [
     1920,
     1080
   ],
-  "fps": 30,
-  "decode_exit": 0,
-  "audio_original_sha256": "4abdc1517616eb7c56df104766b0c54b2d1750d1ba253e48c528902b80ec3211",
-  "audio_v2_sha256": "4abdc1517616eb7c56df104766b0c54b2d1750d1ba253e48c528902b80ec3211",
+  "bytes": 21178563,
+  "sha256": "e144e4ac17b0c0e63f927844df6d9950a6c3edc8a722207d4209f1c32cddd126",
+  "audio_packet_hash_original": "SHA256=a6d48ba8c2f468da0e7366aae2622366e70c7f157d8e908701ce74ded8389814",
+  "audio_packet_hash_final": "SHA256=a6d48ba8c2f468da0e7366aae2622366e70c7f157d8e908701ce74ded8389814",
   "audio_bit_identical": true,
-  "replacement_interval_seconds": [
-    183.1,
-    219.86666666666667
-  ],
-  "only_rpa_video_changed": true,
-  "capture": "Timestamped CUA browser screenshots at native viewport, assembled at original elapsed speed; waiting periods cut",
-  "real_robot_checks": 9,
-  "approval": "Agent-assisted UI demonstration, not a human-participant evaluation",
+  "decode_exit": 0,
+  "detected_black_intervals": 0,
+  "real_capture_seconds": 315.2,
+  "real_capture_percent": 77.9,
+  "review_method": "Encoded frame sampling by shot, every join, and half-second RPA progression; full-stream decoding, audio packet integrity and loudness measurement. Not a full subjective audiovisual playback review.",
   "published": true,
-  "sha256": "ce14cf0d008b197b2425d9f4218c5516545c361b95de3f270fc34e75b7245a73",
-  "youtube_url": "https://youtu.be/kFcjvWzllZc"
+  "youtube": "https://youtu.be/66U-OigDVys",
+  "scope": "Technical and sampled visual review of local MP4; public YouTube metadata verified separately."
 }

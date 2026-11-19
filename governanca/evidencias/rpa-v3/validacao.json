@@ -1,0 +1,32 @@
+{
+  "status": "passed",
+  "checks": [
+    "Integridade: execucao-01.json",
+    "Integridade: execucao-02.json",
+    "Integridade: execucao-03.json",
+    "Integridade: lote-video.csv",
+    "Integridade: robot.jsonl",
+    "Integridade: monitor-captura.py",
+    "Três execuções concluídas sem falha global",
+    "Três relatos válidos em cada estado final",
+    "Identificadores preservados nas retomadas",
+    "Nenhum protocolo antes da revisão",
+    "Primeira execução importou três relatos",
+    "Segunda execução retomou sem importar novamente",
+    "Entrada inválida recusada em cada tentativa",
+    "Validação HTTP 422 registrada",
+    "Estado final: um protocolado e dois pendentes",
+    "Um único protocolo no estado final",
+    "Terceira execução emitiu um protocolo"
+  ],
+  "capture": "V3, 19/11/2026",
+  "final_states": {
+    "pending_review": 2,
+    "protocolled": 1
+  },
+  "limits": [
+    "Conferência dos registros preservados, sem reexecutar robô ou modelos.",
+    "Revisão assistida na interface; não é estudo com usuários.",
+    "V3 não demonstra rejeição nem nova repetição após emitir protocolo; ensaio anterior está em ../rpa/."
+  ]
+}

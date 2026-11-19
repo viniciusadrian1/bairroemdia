@@ -1,0 +1,76 @@
+{
+  "running": false,
+  "run": 2,
+  "events": [
+    {
+      "time": "00:09:55",
+      "text": "EXECUTANDO robot.py • API local • lote sintético"
+    },
+    {
+      "time": "00:09:55",
+      "text": "IMPORTANDO  Demo RPA movimento • 04"
+    },
+    {
+      "time": "00:09:55",
+      "text": "ENTRADA RECUSADA  HTTP 422"
+    },
+    {
+      "time": "00:09:55",
+      "text": "CONCLUÍDO  • importados: 0 • já importados: 3"
+    },
+    {
+      "time": "00:09:55",
+      "text": "PROTOCOLOS NESTA EXECUÇÃO: 0"
+    }
+  ],
+  "result": [
+    {
+      "at_utc": "2026-11-19T03:09:55Z",
+      "job": "demo-rpa-01",
+      "outcome": "skipped",
+      "detail": "Entrada já importada; checkpoint local"
+    },
+    {
+      "at_utc": "2026-11-19T03:09:55Z",
+      "job": "demo-rpa-02",
+      "outcome": "skipped",
+      "detail": "Entrada já importada; checkpoint local"
+    },
+    {
+      "at_utc": "2026-11-19T03:09:55Z",
+      "job": "demo-rpa-03",
+      "outcome": "skipped",
+      "detail": "Entrada já importada; checkpoint local"
+    },
+    {
+      "at_utc": "2026-11-19T03:09:55Z",
+      "job": "demo-rpa-erro",
+      "outcome": "failed",
+      "detail": "HTTPError"
+    }
+  ],
+  "reports": [
+    {
+      "id": "9b795d7b-f4f6-4864-879d-2159c1bfc400",
+      "status": "pending_review",
+      "protocol": null,
+      "neighborhood": "Demo RPA movimento • 03"
+    },
+    {
+      "id": "8030f6fe-49f9-4c37-b638-d7f927dcc664",
+      "status": "pending_review",
+      "protocol": null,
+      "neighborhood": "Demo RPA movimento • 02"
+    },
+    {
+      "id": "6b0740ee-f573-4a0b-ae38-d7a83ec0a1b1",
+      "status": "pending_review",
+      "protocol": null,
+      "neighborhood": "Demo RPA movimento • 01"
+    }
+  ],
+  "error": null,
+  "duration_seconds": 0.025753498077392578,
+  "at_utc": "2026-11-19T03:09:55.748556+00:00",
+  "approval": "No approval performed by monitor or robot. UI demonstration is agent-assisted, not a human study."
+}

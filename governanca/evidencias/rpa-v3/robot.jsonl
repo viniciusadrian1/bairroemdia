@@ -1,0 +1,13 @@
+{"at_utc": "2026-11-19T03:09:33Z", "job": "demo-rpa-01", "outcome": "pending_review", "detail": "Importado e triado; aguarda revisão na interface"}
+{"at_utc": "2026-11-19T03:09:38Z", "job": "demo-rpa-02", "outcome": "pending_review", "detail": "Importado e triado; aguarda revisão na interface"}
+{"at_utc": "2026-11-19T03:09:44Z", "job": "demo-rpa-03", "outcome": "pending_review", "detail": "Importado e triado; aguarda revisão na interface"}
+{"at_utc": "2026-11-19T03:09:44Z", "job": "demo-rpa-erro", "outcome": "failed", "detail": "HTTPError"}
+{"at_utc": "2026-11-19T03:09:55Z", "job": "demo-rpa-01", "outcome": "skipped", "detail": "Entrada já importada; checkpoint local"}
+{"at_utc": "2026-11-19T03:09:55Z", "job": "demo-rpa-02", "outcome": "skipped", "detail": "Entrada já importada; checkpoint local"}
+{"at_utc": "2026-11-19T03:09:55Z", "job": "demo-rpa-03", "outcome": "skipped", "detail": "Entrada já importada; checkpoint local"}
+{"at_utc": "2026-11-19T03:09:55Z", "job": "demo-rpa-erro", "outcome": "failed", "detail": "HTTPError"}
+{"at_utc": "2026-11-19T03:12:52Z", "job": "demo-rpa-01", "outcome": "skipped", "detail": "Entrada já importada; checkpoint local"}
+{"at_utc": "2026-11-19T03:12:52Z", "job": "demo-rpa-02", "outcome": "skipped", "detail": "Entrada já importada; checkpoint local"}
+{"at_utc": "2026-11-19T03:12:52Z", "job": "demo-rpa-03", "outcome": "skipped", "detail": "Entrada já importada; checkpoint local"}
+{"at_utc": "2026-11-19T03:12:52Z", "job": "demo-rpa-erro", "outcome": "failed", "detail": "HTTPError"}
+{"at_utc": "2026-11-19T03:12:52Z", "job": "6b0740ee-f573-4a0b-ae38-d7a83ec0a1b1", "outcome": "protocolled", "detail": "SIM-6B0740EE-F573-4A0B-AE38-D7A83EC0A1B1"}

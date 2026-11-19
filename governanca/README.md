@@ -7,7 +7,7 @@ Bairro em Dia — Global Solution 2 de 2026. Este diretório reúne os materiais
 | Material | Local |
 |---|---|
 | Relatório ABNT/FIAP, 15 páginas | [PDF](relatorio/Bairro_em_Dia_Governanca_ABNT.pdf) · [DOCX editável](relatorio/Bairro_em_Dia_Governanca_ABNT.docx) |
-| Vídeo final, aproximadamente 6min45s | [YouTube Não Listado](https://youtu.be/kFcjvWzllZc) · [arquivo MP4](video/Bairro_em_Dia_Governanca_v2_RPA.mp4) |
+| Vídeo final, aproximadamente 6min45s | [YouTube Não Listado](https://youtu.be/66U-OigDVys) · [arquivo MP4](video/Bairro_em_Dia_Governanca_v3_INTERATIVO.mp4) |
 | Integração das nove disciplinas | [Matriz de integração](matriz-integracao.md) |
 | Critérios do enunciado e correspondência | [Requisitos](requisitos.md) |
 | Demonstração real do RPA, com dados sintéticos | [Evidências](evidencias/README.md) |
@@ -21,4 +21,4 @@ A conclusão foi escrita pelo grupo e revisada com auxílio de IA, conforme a pe
 
 ## Versão para submissão
 
-A tag `governanca-v1.3` preserva esta versão. Conferir os links e submeter os materiais no canal indicado pelo professor, guardando o comprovante. O enunciado alerta para commits posteriores à entrega. A publicação destes arquivos não significa que a submissão no Portal foi realizada.
+Identificador desta revisão: `governanca-v1.4`. Conferir os links e submeter os materiais no canal indicado pelo professor, guardando o comprovante. O enunciado alerta para commits posteriores à entrega. A publicação destes arquivos não significa que a submissão no Portal foi realizada.
