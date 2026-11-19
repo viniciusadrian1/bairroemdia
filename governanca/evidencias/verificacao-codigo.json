@@ -1,0 +1,11 @@
+{
+  "code_commit": "5a1fd364bd8bcd7a521620c6a10f162ef13942bc",
+  "tests_passed": 139,
+  "tests_failed": 0,
+  "test_command": "python -m pytest -q",
+  "environment": "Windows; application environment and isolated audio environment installed",
+  "runtime_lifecycle_checks_passed": 9,
+  "docker_compose_configuration_valid": true,
+  "docker_container_execution_validated": false,
+  "scope": "Automated API/UI/provider/RPA checks and local runtime lifecycle. Not evidence of model accuracy or usability with final users."
+}

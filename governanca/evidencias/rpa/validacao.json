@@ -1,0 +1,17 @@
+{
+  "valid_inputs": 3,
+  "invalid_inputs": 1,
+  "protocols_before_review": 0,
+  "protocols_after_one_ui_approval": 1,
+  "duplicate_protocols_on_repeat": 0,
+  "final_states": {
+    "pending_review": 1,
+    "rejected": 1,
+    "protocolled": 1
+  },
+  "robot_approves": false,
+  "review_method": "Agent-assisted UI demonstration with explicit review notes; not validation by human participants",
+  "source": "Three real robot.py runs against local API, captured in browser",
+  "checks_passed": 9,
+  "llm_issue": "An incorrect generated statement about sound volume was rejected for one report and explicitly corrected in the approval note for another. This exercise does not establish semantic reliability of the LLM."
+}

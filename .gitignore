@@ -32,4 +32,8 @@ saved_model/
 *.wav
 *.docx
 *.pdf
+# Final Governance deliverables (raw recordings remain excluded)
+!/governanca/relatorio/*.docx
+!/governanca/relatorio/*.pdf
+!/governanca/video/Bairro_em_Dia_Governanca_v2_RPA.mp4
 .DS_Store

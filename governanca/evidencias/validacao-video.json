@@ -1,0 +1,25 @@
+{
+  "file": "Bairro_em_Dia_Governanca_v2_RPA.mp4",
+  "duration_seconds": 404.5,
+  "frames": 12135,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "decode_exit": 0,
+  "audio_original_sha256": "4abdc1517616eb7c56df104766b0c54b2d1750d1ba253e48c528902b80ec3211",
+  "audio_v2_sha256": "4abdc1517616eb7c56df104766b0c54b2d1750d1ba253e48c528902b80ec3211",
+  "audio_bit_identical": true,
+  "replacement_interval_seconds": [
+    183.1,
+    219.86666666666667
+  ],
+  "only_rpa_video_changed": true,
+  "capture": "Timestamped CUA browser screenshots at native viewport, assembled at original elapsed speed; waiting periods cut",
+  "real_robot_checks": 9,
+  "approval": "Agent-assisted UI demonstration, not a human-participant evaluation",
+  "published": true,
+  "sha256": "ce14cf0d008b197b2425d9f4218c5516545c361b95de3f270fc34e75b7245a73",
+  "youtube_url": "https://youtu.be/kFcjvWzllZc"
+}

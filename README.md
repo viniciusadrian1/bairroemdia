@@ -2,7 +2,16 @@
 
 Aplicação piloto para registrar, revisar e acompanhar problemas do bairro. Reúne relatos de pavimentação e de incômodo sonoro, orientação com fontes, reconhecimento de sons e painel de acompanhamento.
 
-Este repositório contém o código executável, testes, recursos usados pela aplicação e instruções de instalação. Relatórios acadêmicos, documento ABNT, vídeos e estudos de Cluster e Computação Quântica são entregues separadamente.
+Este repositório contém o código executável, testes, recursos usados pela aplicação e a [entrega de Governança em IA e Business Analytics](governanca/README.md). Os trabalhos autônomos das outras disciplinas, como os PDFs de Cluster e Computação Quântica, permanecem nas entregas próprias.
+
+## Entrega de Governança
+
+- [Relatório final em PDF](governanca/relatorio/Bairro_em_Dia_Governanca_ABNT.pdf) — 15 páginas.
+- [Relatório editável em Word](governanca/relatorio/Bairro_em_Dia_Governanca_ABNT.docx).
+- [Vídeo final no YouTube, Não Listado](https://youtu.be/kFcjvWzllZc) — aproximadamente 6min45s, com demonstração real de RPA.
+- [Índice dos materiais, requisitos e evidências](governanca/README.md).
+
+A tag `governanca-v1` identifica a versão organizada para entrega. Publicação no GitHub não substitui submissão no Portal acadêmico.
 
 ## O que funciona
 
@@ -100,6 +109,7 @@ app/modelos/        procedência, licenças e classes; pesos via instaladores
 app/scripts/        instalação de modelos e controle de execução
 app/tests/          testes da API, provedores, RPA e interface
 docs/               contratos de funcionamento e limites do piloto
+governanca/         relatório, vídeo, roteiro e evidências da entrega integrada
 ```
 
 ## Governança e limites

@@ -1,0 +1,90 @@
+{
+  "running": false,
+  "run": 2,
+  "events": [
+    {
+      "time": "21:51:51",
+      "text": "EXECUTANDO robot.py • API local • lote sintético"
+    },
+    {
+      "time": "21:51:51",
+      "text": "IMPORTANDO  Demo RPA vídeo • 04"
+    },
+    {
+      "time": "21:51:51",
+      "text": "ENTRADA RECUSADA  HTTP 422"
+    },
+    {
+      "time": "21:51:51",
+      "text": "EMITINDO PROTOCOLO  2ec9c174"
+    },
+    {
+      "time": "21:51:51",
+      "text": "PROTOCOLO  SIM-2EC9C174-DF8C-4C6D-BA1C-D8A576C306C0"
+    },
+    {
+      "time": "21:51:51",
+      "text": "CONCLUÍDO  • importados: 0 • já importados: 3"
+    },
+    {
+      "time": "21:51:51",
+      "text": "PROTOCOLOS NESTA EXECUÇÃO: 1"
+    }
+  ],
+  "result": [
+    {
+      "at_utc": "2026-11-19T00:51:51Z",
+      "job": "demo-rpa-01",
+      "outcome": "skipped",
+      "detail": "Entrada já importada; checkpoint local"
+    },
+    {
+      "at_utc": "2026-11-19T00:51:51Z",
+      "job": "demo-rpa-02",
+      "outcome": "skipped",
+      "detail": "Entrada já importada; checkpoint local"
+    },
+    {
+      "at_utc": "2026-11-19T00:51:51Z",
+      "job": "demo-rpa-03",
+      "outcome": "skipped",
+      "detail": "Entrada já importada; checkpoint local"
+    },
+    {
+      "at_utc": "2026-11-19T00:51:51Z",
+      "job": "demo-rpa-erro",
+      "outcome": "failed",
+      "detail": "HTTPError"
+    },
+    {
+      "at_utc": "2026-11-19T00:51:51Z",
+      "job": "2ec9c174-df8c-4c6d-ba1c-d8a576c306c0",
+      "outcome": "protocolled",
+      "detail": "SIM-2EC9C174-DF8C-4C6D-BA1C-D8A576C306C0"
+    }
+  ],
+  "reports": [
+    {
+      "id": "c1dfbaf1-2183-4ae2-97ed-620dc011f3bf",
+      "status": "rejected",
+      "protocol": null,
+      "neighborhood": "Demo RPA vídeo • 03"
+    },
+    {
+      "id": "90e81270-ef03-469c-a4df-1672c81b9797",
+      "status": "pending_review",
+      "protocol": null,
+      "neighborhood": "Demo RPA vídeo • 02"
+    },
+    {
+      "id": "2ec9c174-df8c-4c6d-ba1c-d8a576c306c0",
+      "status": "protocolled",
+      "protocol": "SIM-2EC9C174-DF8C-4C6D-BA1C-D8A576C306C0",
+      "neighborhood": "Demo RPA vídeo • 01"
+    }
+  ],
+  "error": null,
+  "duration_seconds": 0.07403397560119629,
+  "at_utc": "2026-11-19T00:51:51.261746+00:00",
+  "approval": "No approval performed by monitor or robot. UI demonstration is agent-assisted, not a human study."
+}
