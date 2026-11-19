@@ -1,0 +1,44 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: app/backend/Dockerfile
+    ports: ["127.0.0.1:${API_PORT:-8000}:8000"]
+    environment:
+      DB_PATH: /data/bairro.sqlite3
+      LLM_MODE: ${LLM_MODE:-extractive}
+      OLLAMA_URL: http://host.docker.internal:11434
+      OLLAMA_MODEL: ${OLLAMA_MODEL:-gemma3:1b}
+      LLM_TIMEOUT: ${LLM_TIMEOUT:-90}
+      CORS_ORIGINS: http://localhost:${UI_PORT:-8502},http://127.0.0.1:${UI_PORT:-8502}
+      NLP_CORPUS_PATH: /workspace/app/resources/corpus_texto.jsonl
+      VISION_MODEL_PATH: /models/vision/best.onnx
+    volumes:
+      - bairro-data:/data
+      - ./app/modelos:/models:ro
+    extra_hosts: ["host.docker.internal:host-gateway"]
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health', timeout=3)"]
+      interval: 10s
+      timeout: 5s
+      retries: 6
+      start_period: 15s
+  frontend:
+    build:
+      context: .
+      dockerfile: app/Dockerfile.frontend
+    ports: ["127.0.0.1:${UI_PORT:-8502}:8501"]
+    environment:
+      API_BASE_URL: http://api:8000
+      API_TIMEOUT_SECONDS: "100"
+    depends_on:
+      api:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8501/_stcore/health', timeout=3)"]
+      interval: 10s
+      timeout: 5s
+      retries: 6
+      start_period: 15s
+volumes:
+  bairro-data:

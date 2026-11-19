@@ -1,0 +1,11 @@
+{
+  "source": "https://huggingface.co/peterhdd/pothole-detection-yolov8/resolve/da7747eea7abb4319a0f55961f31809a16c1b10a/",
+  "model_card": "https://huggingface.co/peterhdd/pothole-detection-yolov8",
+  "revision": "da7747eea7abb4319a0f55961f31809a16c1b10a",
+  "consulted": "2026-11-10",
+  "declared_license": "apache-2.0",
+  "file": "best.onnx",
+  "sha256": "91dd7de7a110c61314ea19a958fcc85c7b3461cc6d60d87fefc08b41ac6e32c5",
+  "trained_by_group": false,
+  "training_data": "Ryukijano/Pothole-detection-Yolov8; independent split provenance not established"
+}

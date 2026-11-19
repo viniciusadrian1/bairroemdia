@@ -1,0 +1,35 @@
+# Secrets and local settings
+.env
+.env.*
+!.env.example
+secrets.toml
+# Python and generated output
+.venv*/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.test-temp*/
+runtime/
+*.log
+*.sqlite*
+*.db
+/app/data/
+.coverage
+htmlcov/
+# Model binaries are installed with hash verification
+*.onnx
+*.tflite
+*.pb
+*.tar.gz
+*.download
+saved_model/
+.deps/
+/app/modelos/yamnet/*manifest.json
+/app/modelos/yamnet/*verification.json
+# Media recordings and local delivery material
+*.mp4
+*.m4a
+*.wav
+*.docx
+*.pdf
+.DS_Store

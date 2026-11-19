@@ -1,0 +1,65 @@
+[
+  {
+    "discipline": "front-end-mobile",
+    "mode": "funcional",
+    "status": "Interface, formulário, revisão e painel responsivos.",
+    "evidence": "Interface, formulário, revisão e painel responsivos.",
+    "pending": "Validar com usuários finais; consultar README para configuração e limites do piloto."
+  },
+  {
+    "discipline": "generative-ai",
+    "mode": "configuravel",
+    "status": "Recuperação de fontes; geração local opcional via Ollama.",
+    "evidence": "Recuperação de fontes; geração local opcional via Ollama.",
+    "pending": "Validar com usuários finais; consultar README para configuração e limites do piloto."
+  },
+  {
+    "discipline": "nlp-chatbots-virtual-agents",
+    "mode": "dados",
+    "status": "Corpus documental JSONL usado pelo assistente.",
+    "evidence": "Corpus documental JSONL usado pelo assistente.",
+    "pending": "Validar com usuários finais; consultar README para configuração e limites do piloto."
+  },
+  {
+    "discipline": "visao-computacional",
+    "mode": "configuravel",
+    "status": "Detector ONNX de pavimentação com caixas para revisão; requer download do modelo.",
+    "evidence": "Detector ONNX de pavimentação com caixas para revisão; requer download do modelo.",
+    "pending": "Validar com usuários finais; consultar README para configuração e limites do piloto."
+  },
+  {
+    "discipline": "ai-rpa",
+    "mode": "funcional",
+    "status": "Robô de importação, checkpoint e protocolo interno condicionado à aprovação humana.",
+    "evidence": "Robô de importação, checkpoint e protocolo interno condicionado à aprovação humana.",
+    "pending": "Validar com usuários finais; consultar README para configuração e limites do piloto."
+  },
+  {
+    "discipline": "iot",
+    "mode": "configuravel",
+    "status": "YAMNet no servidor: classificação de sons em WAV e registro de eventos; requer instalação do modelo e runtime.",
+    "evidence": "YAMNet no servidor: classificação de sons em WAV e registro de eventos; requer instalação do modelo e runtime.",
+    "pending": "Validar com usuários finais; consultar README para configuração e limites do piloto."
+  },
+  {
+    "discipline": "cluster-computing",
+    "mode": "fora_do_repositorio",
+    "status": "Estudo acadêmico separado, não distribuído neste repositório de código.",
+    "evidence": "Estudo acadêmico separado, não distribuído neste repositório de código.",
+    "pending": "Documentação e estudos acadêmicos são entregues separadamente."
+  },
+  {
+    "discipline": "computacao-quantica",
+    "mode": "fora_do_repositorio",
+    "status": "Estudo acadêmico separado; não há execução quântica na aplicação.",
+    "evidence": "Estudo acadêmico separado; não há execução quântica na aplicação.",
+    "pending": "Documentação e estudos acadêmicos são entregues separadamente."
+  },
+  {
+    "discipline": "governanca-ia-business-analytics",
+    "mode": "integracao",
+    "status": "Revisão humana, estados, histórico de ações e indicadores do painel.",
+    "evidence": "Revisão humana, estados, histórico de ações e indicadores do painel.",
+    "pending": "Validar com usuários finais; consultar README para configuração e limites do piloto."
+  }
+]

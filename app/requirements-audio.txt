@@ -1,0 +1,7 @@
+# Install ONLY in workspace-root .venv-audio, not application/global environment.
+# Official SavedModel is loaded as a TF graph, without rebuilding a Keras model.
+numpy==2.2.3
+scipy==1.15.3
+tensorflow==2.20.0
+# Retained only for the frozen TFLite diagnostic/baseline, not production inference.
+ai-edge-litert==2.3.0
