@@ -1,5 +1,5 @@
 {
-  "version": "governanca-v1.1",
+  "version": "governanca-v1.2",
   "scope": "Final Governance deliverables; manifest excludes itself; text files use LF line endings",
   "files": [
     {
@@ -44,8 +44,8 @@
     },
     {
       "path": "evidencias/validacao-documento.json",
-      "bytes": 1008,
-      "sha256": "1aeb9b404b0e2d31753112765dd4fb0db1a0c04bf1c50e581ef8adda1762217e"
+      "bytes": 1029,
+      "sha256": "a8ff1ea89414b5f6af94a11a862862f3bbc08a58e0026513e3aefbb866fe7b42"
     },
     {
       "path": "evidencias/validacao-video.json",
@@ -54,8 +54,8 @@
     },
     {
       "path": "evidencias/verificacao-codigo.json",
-      "bytes": 520,
-      "sha256": "45bf2d7c9b74076ec4e253bdfea87e90c6181cc83202ce25e6d6262fd8f33d4b"
+      "bytes": 1050,
+      "sha256": "3bdda76d98a32f3a24e2f96f417a166d46d5d2a12514efd5a4007de4bbde5de2"
     },
     {
       "path": "matriz-integracao.md",
@@ -65,17 +65,17 @@
     {
       "path": "README.md",
       "bytes": 2129,
-      "sha256": "e9a7c373fa198149cea385814d050c996dcf72cf09456e591baa58da971d83a7"
+      "sha256": "8c0a70b7e61c94abd76bfcb2a4c87b26a3ec33ebdb99de8197deb869f347dc87"
     },
     {
       "path": "relatorio/Bairro_em_Dia_Governanca_ABNT.docx",
-      "bytes": 56655,
-      "sha256": "328a5c8ffaa19cd4e7c00e7ad5de75bb5008e04dc6dc627f851ee0c214ca7b55"
+      "bytes": 56448,
+      "sha256": "6263dd26c4ad341952e92c48d405497304f7192a5d96aec310825664a2f4228c"
     },
     {
       "path": "relatorio/Bairro_em_Dia_Governanca_ABNT.pdf",
-      "bytes": 211130,
-      "sha256": "99d52066b7a6c7cbf7c0aded10bbae644425ab2d6c298dacfcfd7624ffc93d4e"
+      "bytes": 210127,
+      "sha256": "b7cd06dfef27c87b652d3ea347bfdaae8569d43cc807666743ce34b8b44642b1"
     },
     {
       "path": "relatorio/criterios-formatacao.md",
@@ -85,7 +85,7 @@
     {
       "path": "requisitos.md",
       "bytes": 2300,
-      "sha256": "3e34e55747f4ca2b0f5f92da3511dad7f292b42ee43e0e420959bb8441104c00"
+      "sha256": "5c1dda6837d29141e443bc3aef7ac9b24a299470331ade6dcc0f660da6ff0cb9"
     },
     {
       "path": "video/Bairro_em_Dia_Governanca_v2_RPA.mp4",

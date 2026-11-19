@@ -7,5 +7,14 @@
   "runtime_lifecycle_checks_passed": 9,
   "docker_compose_configuration_valid": true,
   "docker_container_execution_validated": false,
-  "scope": "Automated API/UI/provider/RPA checks and local runtime lifecycle. Not evidence of model accuracy or usability with final users."
+  "scope": "Automated API/UI/provider/RPA checks and local runtime lifecycle. Not evidence of model accuracy or usability with final users.",
+  "fresh_checkout_recheck": {
+    "checked_commit": "93a23be06fe4ed40023254be9bf9b5b496874842",
+    "app_tree_sha": "a6ee57a6e0a2956daee093ec50d232b0ecaf1b08",
+    "passed": 139,
+    "failed": 0,
+    "seconds": 18.82,
+    "method": "Fresh clone of published tag governanca-v1.1; previously installed application and isolated audio dependencies reused. Application tree unchanged in the document-only v1.2 revision.",
+    "limits": "Not a fresh dependency installation, model-accuracy evaluation or full container execution."
+  }
 }

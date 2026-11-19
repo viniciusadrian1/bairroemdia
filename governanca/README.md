@@ -20,4 +20,4 @@ A conclusão foi escrita pelo grupo e revisada com auxílio de IA, conforme a pe
 
 ## Versão para submissão
 
-A tag `governanca-v1.1` preserva esta versão. Conferir os links e submeter os materiais no canal indicado pelo professor, guardando o comprovante. O enunciado alerta para commits posteriores à entrega. A publicação destes arquivos não significa que a submissão no Portal foi realizada.
+A tag `governanca-v1.2` preserva esta versão. Conferir os links e submeter os materiais no canal indicado pelo professor, guardando o comprovante. O enunciado alerta para commits posteriores à entrega. A publicação destes arquivos não significa que a submissão no Portal foi realizada.
