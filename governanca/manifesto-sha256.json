@@ -1,5 +1,5 @@
 {
-  "version": "governanca-v1",
+  "version": "governanca-v1.1",
   "scope": "Final Governance deliverables; manifest excludes itself; text files use LF line endings",
   "files": [
     {
@@ -44,8 +44,8 @@
     },
     {
       "path": "evidencias/validacao-documento.json",
-      "bytes": 1051,
-      "sha256": "75d5eb552cc2e907ce4d618c6f3e7bad955796445485406db6cab3779d08df94"
+      "bytes": 1008,
+      "sha256": "1aeb9b404b0e2d31753112765dd4fb0db1a0c04bf1c50e581ef8adda1762217e"
     },
     {
       "path": "evidencias/validacao-video.json",
@@ -64,18 +64,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 2193,
-      "sha256": "3e70ac908f7085e00bdfb5b05f85a7cda078d30a25c7a64553f34719daabbbcf"
+      "bytes": 2129,
+      "sha256": "e9a7c373fa198149cea385814d050c996dcf72cf09456e591baa58da971d83a7"
     },
     {
       "path": "relatorio/Bairro_em_Dia_Governanca_ABNT.docx",
-      "bytes": 56659,
-      "sha256": "dd870779bacac6411aeec89c6b68f54c9037e290b1aeca0a3814cfd8738e383a"
+      "bytes": 56655,
+      "sha256": "328a5c8ffaa19cd4e7c00e7ad5de75bb5008e04dc6dc627f851ee0c214ca7b55"
     },
     {
       "path": "relatorio/Bairro_em_Dia_Governanca_ABNT.pdf",
-      "bytes": 211201,
-      "sha256": "551442b76146bf38dc6b4cdbfd91a896902f46844dc90fed64a53a5321a6cf02"
+      "bytes": 211130,
+      "sha256": "99d52066b7a6c7cbf7c0aded10bbae644425ab2d6c298dacfcfd7624ffc93d4e"
     },
     {
       "path": "relatorio/criterios-formatacao.md",
@@ -84,18 +84,13 @@
     },
     {
       "path": "requisitos.md",
-      "bytes": 2308,
-      "sha256": "763a3f3f681d5645e57fad803df6f9c4f6047275543615b632c688171038e0fc"
+      "bytes": 2300,
+      "sha256": "3e34e55747f4ca2b0f5f92da3511dad7f292b42ee43e0e420959bb8441104c00"
     },
     {
       "path": "video/Bairro_em_Dia_Governanca_v2_RPA.mp4",
       "bytes": 16859195,
       "sha256": "ce14cf0d008b197b2425d9f4218c5516545c361b95de3f270fc34e75b7245a73"
-    },
-    {
-      "path": "video/roteiro.md",
-      "bytes": 9944,
-      "sha256": "9970c22251d0b6049376f7ad883827365dd3fc310bb243255751143fde5cc60e"
     }
   ]
 }

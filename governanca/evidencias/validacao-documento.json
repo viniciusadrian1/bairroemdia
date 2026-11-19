@@ -22,12 +22,12 @@
   "toc_and_lists_match_pdf": true,
   "disciplines": 9,
   "reference_unchanged_sha256": "b3ef973dda85758ed1474890d0b169b45bf6c17cee9cb1a61ff0d8d1a7ad49f8",
-  "docx_sha256": "dd870779bacac6411aeec89c6b68f54c9037e290b1aeca0a3814cfd8738e383a",
+  "docx_sha256": "328a5c8ffaa19cd4e7c00e7ad5de75bb5008e04dc6dc627f851ee0c214ca7b55",
   "conclusion": "Texto fornecido pelo grupo e revisado com auxílio de IA, preservando as ideias e a primeira pessoa.",
   "pending": [
     "Submissão no Portal e comprovante pelo grupo"
   ],
-  "visual_qa": "15 páginas conferidas estruturalmente. Comparação com render anterior: páginas físicas 11, 14 e 15 alteradas e inspecionadas; demais páginas visualmente idênticas às já conferidas.",
+  "visual_qa": "15 páginas conferidas estruturalmente. Página física 14 atualizada e inspecionada; demais páginas idênticas ao render anterior já conferido.",
   "pdf": "governanca/relatorio/Bairro_em_Dia_Governanca_ABNT.pdf",
-  "pdf_sha256": "551442b76146bf38dc6b4cdbfd91a896902f46844dc90fed64a53a5321a6cf02"
+  "pdf_sha256": "99d52066b7a6c7cbf7c0aded10bbae644425ab2d6c298dacfcfd7624ffc93d4e"
 }
